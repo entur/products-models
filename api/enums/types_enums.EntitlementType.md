@@ -1,0 +1,45 @@
+[@entur-partner/products-models](../README.md) / [types/enums](../modules/types_enums.md) / EntitlementType
+
+# Enumeration: EntitlementType
+
+[types/enums](../modules/types_enums.md).EntitlementType
+
+## Enumeration Members
+
+### NONE
+
+• **NONE** = ``"NONE"``
+
+#### Defined in
+
+src/types/enums/index.ts:160
+
+___
+
+### PURCHASE
+
+• **PURCHASE** = ``"PURCHASE"``
+
+#### Defined in
+
+src/types/enums/index.ts:158
+
+___
+
+### PURCHASE\_AT\_DISCOUNT
+
+• **PURCHASE\_AT\_DISCOUNT** = ``"PURCHASE_AT_DISCOUNT"``
+
+#### Defined in
+
+src/types/enums/index.ts:159
+
+___
+
+### USE
+
+• **USE** = ``"USE"``
+
+#### Defined in
+
+src/types/enums/index.ts:157
