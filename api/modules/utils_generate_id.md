@@ -25,7 +25,7 @@ console.log(shortUuid); // '3f7f1e4c'
 
 #### Defined in
 
-src/utils/generate-id.ts:15
+[src/utils/generate-id.ts:15](https://github.com/entur/products-models/blob/main/src/utils/generate-id.ts#L15)
 
 ___
 
@@ -59,4 +59,4 @@ console.log(uniqueId); // 'app:User:3f7f1e4c'
 
 #### Defined in
 
-src/utils/generate-id.ts:32
+[src/utils/generate-id.ts:32](https://github.com/entur/products-models/blob/main/src/utils/generate-id.ts#L32)

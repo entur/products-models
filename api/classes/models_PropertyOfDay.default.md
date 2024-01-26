@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/PropertyOfDay.ts:12
+[src/models/PropertyOfDay.ts:12](https://github.com/entur/products-models/blob/main/src/models/PropertyOfDay.ts#L12)
 
 ## Properties
 
@@ -32,7 +32,7 @@ src/models/PropertyOfDay.ts:12
 
 #### Defined in
 
-src/models/PropertyOfDay.ts:9
+[src/models/PropertyOfDay.ts:9](https://github.com/entur/products-models/blob/main/src/models/PropertyOfDay.ts#L9)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/models/PropertyOfDay.ts:7
+[src/models/PropertyOfDay.ts:7](https://github.com/entur/products-models/blob/main/src/models/PropertyOfDay.ts#L7)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/PropertyOfDay.ts:6
+[src/models/PropertyOfDay.ts:6](https://github.com/entur/products-models/blob/main/src/models/PropertyOfDay.ts#L6)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-src/models/PropertyOfDay.ts:10
+[src/models/PropertyOfDay.ts:10](https://github.com/entur/products-models/blob/main/src/models/PropertyOfDay.ts#L10)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-src/models/PropertyOfDay.ts:8
+[src/models/PropertyOfDay.ts:8](https://github.com/entur/products-models/blob/main/src/models/PropertyOfDay.ts#L8)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-src/models/PropertyOfDay.ts:5
+[src/models/PropertyOfDay.ts:5](https://github.com/entur/products-models/blob/main/src/models/PropertyOfDay.ts#L5)

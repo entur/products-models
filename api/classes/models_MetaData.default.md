@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/MetaData.ts:18
+[src/models/MetaData.ts:18](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L18)
 
 ## Properties
 
@@ -32,7 +32,7 @@ src/models/MetaData.ts:18
 
 #### Defined in
 
-src/models/MetaData.ts:11
+[src/models/MetaData.ts:11](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L11)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:13
+[src/models/MetaData.ts:13](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L13)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:14
+[src/models/MetaData.ts:14](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L14)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:9
+[src/models/MetaData.ts:9](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L9)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:16
+[src/models/MetaData.ts:16](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L16)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:15
+[src/models/MetaData.ts:15](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L15)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:12
+[src/models/MetaData.ts:12](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L12)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:10
+[src/models/MetaData.ts:10](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L10)
 
 ## Methods
 
@@ -122,7 +122,7 @@ src/models/MetaData.ts:10
 
 #### Defined in
 
-src/models/MetaData.ts:43
+[src/models/MetaData.ts:43](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L43)
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:35
+[src/models/MetaData.ts:35](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L35)
 
 ___
 
@@ -156,4 +156,4 @@ ___
 
 #### Defined in
 
-src/models/MetaData.ts:39
+[src/models/MetaData.ts:39](https://github.com/entur/products-models/blob/main/src/models/MetaData.ts#L39)

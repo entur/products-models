@@ -32,7 +32,7 @@ Error.constructor
 
 #### Defined in
 
-src/models/ProductsError.ts:8
+[src/models/ProductsError.ts:8](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L8)
 
 ## Properties
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-src/models/ProductsError.ts:5
+[src/models/ProductsError.ts:5](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L5)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-src/models/ProductsError.ts:6
+[src/models/ProductsError.ts:6](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L6)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-src/models/ProductsError.ts:7
+[src/models/ProductsError.ts:7](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L7)
 
 ___
 

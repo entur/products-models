@@ -39,4 +39,4 @@ console.log(clonedObject); // { name: 'John', age: 25, city: 'New York' }
 
 #### Defined in
 
-src/utils/clone-objects.ts:14
+[src/utils/clone-objects.ts:14](https://github.com/entur/products-models/blob/main/src/utils/clone-objects.ts#L14)

@@ -30,7 +30,7 @@
 
 #### Defined in
 
-src/models/User.ts:19
+[src/models/User.ts:19](https://github.com/entur/products-models/blob/main/src/models/User.ts#L19)
 
 ## Properties
 
@@ -40,7 +40,7 @@ src/models/User.ts:19
 
 #### Defined in
 
-src/models/User.ts:7
+[src/models/User.ts:7](https://github.com/entur/products-models/blob/main/src/models/User.ts#L7)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-src/models/User.ts:8
+[src/models/User.ts:8](https://github.com/entur/products-models/blob/main/src/models/User.ts#L8)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-src/models/User.ts:9
+[src/models/User.ts:9](https://github.com/entur/products-models/blob/main/src/models/User.ts#L9)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-src/models/User.ts:6
+[src/models/User.ts:6](https://github.com/entur/products-models/blob/main/src/models/User.ts#L6)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-src/models/User.ts:17
+[src/models/User.ts:17](https://github.com/entur/products-models/blob/main/src/models/User.ts#L17)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-src/models/User.ts:10
+[src/models/User.ts:10](https://github.com/entur/products-models/blob/main/src/models/User.ts#L10)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-src/models/User.ts:11
+[src/models/User.ts:11](https://github.com/entur/products-models/blob/main/src/models/User.ts#L11)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-src/models/User.ts:13
+[src/models/User.ts:13](https://github.com/entur/products-models/blob/main/src/models/User.ts#L13)
 
 ___
 
@@ -122,7 +122,7 @@ Permissions from permission-store
 
 #### Defined in
 
-src/models/User.ts:15
+[src/models/User.ts:15](https://github.com/entur/products-models/blob/main/src/models/User.ts#L15)
 
 ___
 
@@ -132,4 +132,4 @@ ___
 
 #### Defined in
 
-src/models/User.ts:12
+[src/models/User.ts:12](https://github.com/entur/products-models/blob/main/src/models/User.ts#L12)

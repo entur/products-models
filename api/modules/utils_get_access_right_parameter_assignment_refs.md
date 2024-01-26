@@ -32,4 +32,4 @@ console.log(assignmentRefs); // [Reference1, Reference2, ...]
 
 #### Defined in
 
-src/utils/get-access-right-parameter-assignment-refs.ts:16
+[src/utils/get-access-right-parameter-assignment-refs.ts:16](https://github.com/entur/products-models/blob/main/src/utils/get-access-right-parameter-assignment-refs.ts#L16)

@@ -41,4 +41,4 @@ console.log(keyWithoutIds); // 'undefined-undefined'
 
 #### Defined in
 
-src/utils/index-key.ts:21
+[src/utils/index-key.ts:21](https://github.com/entur/products-models/blob/main/src/utils/index-key.ts#L21)

@@ -32,7 +32,7 @@
 
 #### Defined in
 
-src/models/Refunding.ts:36
+[src/models/Refunding.ts:36](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L36)
 
 ## Properties
 
@@ -42,7 +42,7 @@ src/models/Refunding.ts:36
 
 #### Defined in
 
-src/models/Refunding.ts:26
+[src/models/Refunding.ts:26](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L26)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:25
+[src/models/Refunding.ts:25](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L25)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:19
+[src/models/BaseModel.ts:19](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L19)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:16
+[src/models/BaseModel.ts:16](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L16)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:18
+[src/models/BaseModel.ts:18](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L18)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:23
+[src/models/BaseModel.ts:23](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L23)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:32
+[src/models/Refunding.ts:32](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L32)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:29
+[src/models/Refunding.ts:29](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L29)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:33
+[src/models/Refunding.ts:33](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L33)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:30
+[src/models/Refunding.ts:30](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L30)
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:25
+[src/models/BaseModel.ts:25](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L25)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:21
+[src/models/Refunding.ts:21](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L21)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:22
+[src/models/Refunding.ts:22](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L22)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:28
+[src/models/Refunding.ts:28](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L28)
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:14
+[src/models/BaseModel.ts:14](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L14)
 
 ___
 
@@ -216,7 +216,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:24
+[src/models/Refunding.ts:24](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L24)
 
 ___
 
@@ -226,7 +226,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:23
+[src/models/Refunding.ts:23](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L23)
 
 ___
 
@@ -240,7 +240,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:20
+[src/models/BaseModel.ts:20](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L20)
 
 ___
 
@@ -254,7 +254,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:22
+[src/models/BaseModel.ts:22](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L22)
 
 ___
 
@@ -268,7 +268,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:17
+[src/models/BaseModel.ts:17](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L17)
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:31
+[src/models/Refunding.ts:31](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L31)
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:20
+[src/models/Refunding.ts:20](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L20)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:34
+[src/models/Refunding.ts:34](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L34)
 
 ___
 
@@ -308,7 +308,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:18
+[src/models/Refunding.ts:18](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L18)
 
 ___
 
@@ -318,7 +318,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:19
+[src/models/Refunding.ts:19](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L19)
 
 ___
 
@@ -332,7 +332,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:21
+[src/models/BaseModel.ts:21](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L21)
 
 ___
 
@@ -342,7 +342,7 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:27
+[src/models/Refunding.ts:27](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L27)
 
 ___
 
@@ -356,7 +356,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:15
+[src/models/BaseModel.ts:15](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L15)
 
 ## Methods
 
@@ -380,7 +380,7 @@ src/models/BaseModel.ts:15
 
 #### Defined in
 
-src/models/Refunding.ts:92
+[src/models/Refunding.ts:92](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L92)
 
 ___
 
@@ -398,7 +398,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:147
+[src/models/BaseModel.ts:147](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L147)
 
 ___
 
@@ -423,7 +423,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:160
+[src/models/BaseModel.ts:160](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L160)
 
 ___
 
@@ -447,7 +447,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:156
+[src/models/BaseModel.ts:156](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L156)
 
 ___
 
@@ -471,7 +471,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:64
+[src/models/BaseModel.ts:64](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L64)
 
 ___
 
@@ -496,7 +496,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:68
+[src/models/BaseModel.ts:68](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L68)
 
 ___
 
@@ -514,7 +514,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:134
+[src/models/BaseModel.ts:134](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L134)
 
 ___
 
@@ -538,7 +538,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:140
+[src/models/BaseModel.ts:140](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L140)
 
 ___
 
@@ -564,7 +564,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:80
+[src/models/BaseModel.ts:80](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L80)
 
 ___
 
@@ -589,7 +589,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:110
+[src/models/BaseModel.ts:110](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L110)
 
 ___
 
@@ -613,7 +613,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:128
+[src/models/BaseModel.ts:128](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L128)
 
 ___
 
@@ -627,4 +627,4 @@ ___
 
 #### Defined in
 
-src/models/Refunding.ts:88
+[src/models/Refunding.ts:88](https://github.com/entur/products-models/blob/main/src/models/Refunding.ts#L88)

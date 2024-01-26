@@ -18,7 +18,7 @@
 
 #### Defined in
 
-src/types/interfaces.ts:114
+[src/types/interfaces.ts:114](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L114)
 
 ___
 
@@ -28,4 +28,4 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:115
+[src/types/interfaces.ts:115](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L115)

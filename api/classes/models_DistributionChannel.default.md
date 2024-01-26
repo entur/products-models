@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/DistributionChannel.ts:10
+[src/models/DistributionChannel.ts:10](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L10)
 
 ## Properties
 
@@ -32,7 +32,7 @@ src/models/DistributionChannel.ts:10
 
 #### Defined in
 
-src/models/DistributionChannel.ts:6
+[src/models/DistributionChannel.ts:6](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L6)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/models/DistributionChannel.ts:7
+[src/models/DistributionChannel.ts:7](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L7)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/DistributionChannel.ts:8
+[src/models/DistributionChannel.ts:8](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L8)
 
 ## Methods
 
@@ -72,7 +72,7 @@ src/models/DistributionChannel.ts:8
 
 #### Defined in
 
-src/models/DistributionChannel.ts:16
+[src/models/DistributionChannel.ts:16](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L16)
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-src/models/DistributionChannel.ts:20
+[src/models/DistributionChannel.ts:20](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L20)

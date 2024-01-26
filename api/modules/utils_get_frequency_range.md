@@ -35,4 +35,4 @@ console.log(limitedUseFrequency); // { maximalFrequency: 5 }
 
 #### Defined in
 
-src/utils/get-frequency-range.ts:17
+[src/utils/get-frequency-range.ts:17](https://github.com/entur/products-models/blob/main/src/utils/get-frequency-range.ts#L17)

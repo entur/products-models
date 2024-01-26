@@ -26,7 +26,7 @@
 
 #### Defined in
 
-src/models/Reference.ts:5
+[src/models/Reference.ts:5](https://github.com/entur/products-models/blob/main/src/models/Reference.ts#L5)
 
 ## Properties
 
@@ -36,7 +36,7 @@ src/models/Reference.ts:5
 
 #### Defined in
 
-src/models/Reference.ts:2
+[src/models/Reference.ts:2](https://github.com/entur/products-models/blob/main/src/models/Reference.ts#L2)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-src/models/Reference.ts:3
+[src/models/Reference.ts:3](https://github.com/entur/products-models/blob/main/src/models/Reference.ts#L3)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-src/models/Reference.ts:4
+[src/models/Reference.ts:4](https://github.com/entur/products-models/blob/main/src/models/Reference.ts#L4)
 
 ## Methods
 
@@ -76,4 +76,4 @@ src/models/Reference.ts:4
 
 #### Defined in
 
-src/models/Reference.ts:11
+[src/models/Reference.ts:11](https://github.com/entur/products-models/blob/main/src/models/Reference.ts#L11)

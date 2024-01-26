@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/SteppedDuration.ts:10
+[src/models/SteppedDuration.ts:10](https://github.com/entur/products-models/blob/main/src/models/SteppedDuration.ts#L10)
 
 ## Properties
 
@@ -32,7 +32,7 @@ src/models/SteppedDuration.ts:10
 
 #### Defined in
 
-src/models/SteppedDuration.ts:5
+[src/models/SteppedDuration.ts:5](https://github.com/entur/products-models/blob/main/src/models/SteppedDuration.ts#L5)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/models/SteppedDuration.ts:7
+[src/models/SteppedDuration.ts:7](https://github.com/entur/products-models/blob/main/src/models/SteppedDuration.ts#L7)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/SteppedDuration.ts:8
+[src/models/SteppedDuration.ts:8](https://github.com/entur/products-models/blob/main/src/models/SteppedDuration.ts#L8)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-src/models/SteppedDuration.ts:6
+[src/models/SteppedDuration.ts:6](https://github.com/entur/products-models/blob/main/src/models/SteppedDuration.ts#L6)

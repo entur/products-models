@@ -32,7 +32,7 @@
 
 #### Defined in
 
-src/models/SecurityPolicy.ts:10
+[src/models/SecurityPolicy.ts:10](https://github.com/entur/products-models/blob/main/src/models/SecurityPolicy.ts#L10)
 
 ## Properties
 
@@ -46,7 +46,7 @@ src/models/SecurityPolicy.ts:10
 
 #### Defined in
 
-src/models/BaseModel.ts:19
+[src/models/BaseModel.ts:19](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L19)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:16
+[src/models/BaseModel.ts:16](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L16)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:18
+[src/models/BaseModel.ts:18](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L18)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:23
+[src/models/BaseModel.ts:23](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L23)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:25
+[src/models/BaseModel.ts:25](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L25)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:14
+[src/models/BaseModel.ts:14](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L14)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-src/models/SecurityPolicy.ts:8
+[src/models/SecurityPolicy.ts:8](https://github.com/entur/products-models/blob/main/src/models/SecurityPolicy.ts#L8)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:20
+[src/models/BaseModel.ts:20](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L20)
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:22
+[src/models/BaseModel.ts:22](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L22)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:17
+[src/models/BaseModel.ts:17](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L17)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:21
+[src/models/BaseModel.ts:21](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L21)
 
 ___
 
@@ -196,7 +196,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:15
+[src/models/BaseModel.ts:15](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L15)
 
 ## Methods
 
@@ -220,7 +220,7 @@ src/models/BaseModel.ts:15
 
 #### Defined in
 
-src/models/BaseModel.ts:174
+[src/models/BaseModel.ts:174](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L174)
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:147
+[src/models/BaseModel.ts:147](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L147)
 
 ___
 
@@ -263,7 +263,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:160
+[src/models/BaseModel.ts:160](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L160)
 
 ___
 
@@ -287,7 +287,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:156
+[src/models/BaseModel.ts:156](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L156)
 
 ___
 
@@ -311,7 +311,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:64
+[src/models/BaseModel.ts:64](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L64)
 
 ___
 
@@ -336,7 +336,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:68
+[src/models/BaseModel.ts:68](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L68)
 
 ___
 
@@ -354,7 +354,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:134
+[src/models/BaseModel.ts:134](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L134)
 
 ___
 
@@ -378,7 +378,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:140
+[src/models/BaseModel.ts:140](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L140)
 
 ___
 
@@ -404,7 +404,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:80
+[src/models/BaseModel.ts:80](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L80)
 
 ___
 
@@ -429,7 +429,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:110
+[src/models/BaseModel.ts:110](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L110)
 
 ___
 
@@ -453,7 +453,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:128
+[src/models/BaseModel.ts:128](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L128)
 
 ___
 
@@ -467,4 +467,4 @@ ___
 
 #### Defined in
 
-src/models/SecurityPolicy.ts:16
+[src/models/SecurityPolicy.ts:16](https://github.com/entur/products-models/blob/main/src/models/SecurityPolicy.ts#L16)

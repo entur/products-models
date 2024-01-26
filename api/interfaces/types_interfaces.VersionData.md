@@ -12,7 +12,7 @@
 
 #### Defined in
 
-src/types/interfaces.ts:445
+[src/types/interfaces.ts:445](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L445)
 
 ___
 
@@ -22,7 +22,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:442
+[src/types/interfaces.ts:442](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L442)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:444
+[src/types/interfaces.ts:444](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L444)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:446
+[src/types/interfaces.ts:446](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L446)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:451
+[src/types/interfaces.ts:451](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L451)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:441
+[src/types/interfaces.ts:441](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L441)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:447
+[src/types/interfaces.ts:447](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L447)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:443
+[src/types/interfaces.ts:443](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L443)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:450
+[src/types/interfaces.ts:450](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L450)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:448
+[src/types/interfaces.ts:448](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L448)
 
 ___
 
@@ -112,4 +112,4 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:449
+[src/types/interfaces.ts:449](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L449)

@@ -12,7 +12,7 @@
 
 #### Defined in
 
-src/types/enums/index.ts:164
+[src/types/enums/index.ts:164](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L164)
 
 ___
 
@@ -22,4 +22,4 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:165
+[src/types/enums/index.ts:165](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L165)

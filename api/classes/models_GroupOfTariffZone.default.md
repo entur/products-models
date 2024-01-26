@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/GroupOfTariffZone.ts:12
+[src/models/GroupOfTariffZone.ts:12](https://github.com/entur/products-models/blob/main/src/models/GroupOfTariffZone.ts#L12)
 
 ## Properties
 
@@ -32,7 +32,7 @@ src/models/GroupOfTariffZone.ts:12
 
 #### Defined in
 
-src/models/GroupOfTariffZone.ts:6
+[src/models/GroupOfTariffZone.ts:6](https://github.com/entur/products-models/blob/main/src/models/GroupOfTariffZone.ts#L6)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-src/models/GroupOfTariffZone.ts:7
+[src/models/GroupOfTariffZone.ts:7](https://github.com/entur/products-models/blob/main/src/models/GroupOfTariffZone.ts#L7)
 
 ## Methods
 
@@ -63,7 +63,7 @@ src/models/GroupOfTariffZone.ts:7
 
 #### Defined in
 
-src/models/GroupOfTariffZone.ts:17
+[src/models/GroupOfTariffZone.ts:17](https://github.com/entur/products-models/blob/main/src/models/GroupOfTariffZone.ts#L17)
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 #### Defined in
 
-src/models/GroupOfTariffZone.ts:20
+[src/models/GroupOfTariffZone.ts:20](https://github.com/entur/products-models/blob/main/src/models/GroupOfTariffZone.ts#L20)

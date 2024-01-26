@@ -34,4 +34,4 @@ console.log(codeSpace); // 'app'
 
 #### Defined in
 
-src/utils/code-space-from-netex-id.ts:13
+[src/utils/code-space-from-netex-id.ts:13](https://github.com/entur/products-models/blob/main/src/utils/code-space-from-netex-id.ts#L13)

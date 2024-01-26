@@ -39,4 +39,4 @@ console.log(filteredObject); // { name: 'John', city: 'New York' }
 
 #### Defined in
 
-src/utils/filter-object.ts:14
+[src/utils/filter-object.ts:14](https://github.com/entur/products-models/blob/main/src/utils/filter-object.ts#L14)

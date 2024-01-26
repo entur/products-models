@@ -34,7 +34,7 @@
 
 #### Defined in
 
-src/models/Thing.ts:10
+[src/models/Thing.ts:10](https://github.com/entur/products-models/blob/main/src/models/Thing.ts#L10)
 
 ## Properties
 
@@ -44,7 +44,7 @@ src/models/Thing.ts:10
 
 #### Defined in
 
-src/models/Thing.ts:8
+[src/models/Thing.ts:8](https://github.com/entur/products-models/blob/main/src/models/Thing.ts#L8)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-src/models/Thing.ts:9
+[src/models/Thing.ts:9](https://github.com/entur/products-models/blob/main/src/models/Thing.ts#L9)
 
 ## Methods
 
@@ -68,4 +68,4 @@ src/models/Thing.ts:9
 
 #### Defined in
 
-src/models/Thing.ts:15
+[src/models/Thing.ts:15](https://github.com/entur/products-models/blob/main/src/models/Thing.ts#L15)

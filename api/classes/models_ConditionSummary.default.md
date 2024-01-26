@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/ConditionSummary.ts:9
+[src/models/ConditionSummary.ts:9](https://github.com/entur/products-models/blob/main/src/models/ConditionSummary.ts#L9)
 
 ## Properties
 
@@ -32,7 +32,7 @@ src/models/ConditionSummary.ts:9
 
 #### Defined in
 
-src/models/ConditionSummary.ts:6
+[src/models/ConditionSummary.ts:6](https://github.com/entur/products-models/blob/main/src/models/ConditionSummary.ts#L6)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/models/ConditionSummary.ts:8
+[src/models/ConditionSummary.ts:8](https://github.com/entur/products-models/blob/main/src/models/ConditionSummary.ts#L8)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/ConditionSummary.ts:7
+[src/models/ConditionSummary.ts:7](https://github.com/entur/products-models/blob/main/src/models/ConditionSummary.ts#L7)
 
 ## Methods
 
@@ -66,4 +66,4 @@ src/models/ConditionSummary.ts:7
 
 #### Defined in
 
-src/models/ConditionSummary.ts:15
+[src/models/ConditionSummary.ts:15](https://github.com/entur/products-models/blob/main/src/models/ConditionSummary.ts#L15)

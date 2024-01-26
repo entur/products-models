@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/types/interfaces.ts:456
+[src/types/interfaces.ts:456](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L456)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:458
+[src/types/interfaces.ts:458](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L458)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:132
+[src/types/interfaces.ts:132](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L132)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:460
+[src/types/interfaces.ts:460](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L460)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:158
+[src/types/interfaces.ts:158](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L158)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:124
+[src/types/interfaces.ts:124](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L124)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:137
+[src/types/interfaces.ts:137](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L137)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:138
+[src/types/interfaces.ts:138](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L138)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:121
+[src/types/interfaces.ts:121](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L121)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:139
+[src/types/interfaces.ts:139](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L139)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:123
+[src/types/interfaces.ts:123](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L123)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:128
+[src/types/interfaces.ts:128](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L128)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:133
+[src/types/interfaces.ts:133](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L133)
 
 ___
 
@@ -200,7 +200,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:140
+[src/types/interfaces.ts:140](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L140)
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:119
+[src/types/interfaces.ts:119](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L119)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:125
+[src/types/interfaces.ts:125](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L125)
 
 ___
 
@@ -242,7 +242,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:127
+[src/types/interfaces.ts:127](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L127)
 
 ___
 
@@ -256,7 +256,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:122
+[src/types/interfaces.ts:122](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L122)
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:134
+[src/types/interfaces.ts:134](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L134)
 
 ___
 
@@ -284,7 +284,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:135
+[src/types/interfaces.ts:135](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L135)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:136
+[src/types/interfaces.ts:136](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L136)
 
 ___
 
@@ -312,7 +312,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:457
+[src/types/interfaces.ts:457](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L457)
 
 ___
 
@@ -326,7 +326,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:455
+[src/types/interfaces.ts:455](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L455)
 
 ___
 
@@ -340,7 +340,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:459
+[src/types/interfaces.ts:459](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L459)
 
 ___
 
@@ -350,7 +350,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:160
+[src/types/interfaces.ts:160](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L160)
 
 ___
 
@@ -364,7 +364,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:126
+[src/types/interfaces.ts:126](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L126)
 
 ___
 
@@ -374,7 +374,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:159
+[src/types/interfaces.ts:159](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L159)
 
 ___
 
@@ -388,4 +388,4 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:120
+[src/types/interfaces.ts:120](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L120)

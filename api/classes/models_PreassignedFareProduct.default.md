@@ -32,7 +32,7 @@
 
 #### Defined in
 
-src/models/PreassignedFareProduct.ts:10
+[src/models/PreassignedFareProduct.ts:10](https://github.com/entur/products-models/blob/main/src/models/PreassignedFareProduct.ts#L10)
 
 ## Properties
 
@@ -46,7 +46,7 @@ src/models/PreassignedFareProduct.ts:10
 
 #### Defined in
 
-src/models/Dorito.ts:14
+[src/models/Dorito.ts:14](https://github.com/entur/products-models/blob/main/src/models/Dorito.ts#L14)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-src/models/Dorito.ts:15
+[src/models/Dorito.ts:15](https://github.com/entur/products-models/blob/main/src/models/Dorito.ts#L15)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:21
+[src/models/FareProduct.ts:21](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L21)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-src/models/Dorito.ts:17
+[src/models/Dorito.ts:17](https://github.com/entur/products-models/blob/main/src/models/Dorito.ts#L17)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:19
+[src/models/BaseModel.ts:19](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L19)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:26
+[src/models/FareProduct.ts:26](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L26)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:27
+[src/models/FareProduct.ts:27](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L27)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:16
+[src/models/BaseModel.ts:16](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L16)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:28
+[src/models/FareProduct.ts:28](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L28)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:18
+[src/models/BaseModel.ts:18](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L18)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:23
+[src/models/BaseModel.ts:23](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L23)
 
 ___
 
@@ -200,7 +200,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:25
+[src/models/BaseModel.ts:25](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L25)
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:22
+[src/models/FareProduct.ts:22](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L22)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:29
+[src/models/FareProduct.ts:29](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L29)
 
 ___
 
@@ -242,7 +242,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:14
+[src/models/BaseModel.ts:14](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L14)
 
 ___
 
@@ -256,7 +256,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:20
+[src/models/BaseModel.ts:20](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L20)
 
 ___
 
@@ -270,7 +270,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:22
+[src/models/BaseModel.ts:22](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L22)
 
 ___
 
@@ -284,7 +284,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:17
+[src/models/BaseModel.ts:17](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L17)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:23
+[src/models/FareProduct.ts:23](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L23)
 
 ___
 
@@ -312,7 +312,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:24
+[src/models/FareProduct.ts:24](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L24)
 
 ___
 
@@ -326,7 +326,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:25
+[src/models/FareProduct.ts:25](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L25)
 
 ___
 
@@ -340,7 +340,7 @@ ___
 
 #### Defined in
 
-src/models/Dorito.ts:16
+[src/models/Dorito.ts:16](https://github.com/entur/products-models/blob/main/src/models/Dorito.ts#L16)
 
 ___
 
@@ -354,7 +354,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:21
+[src/models/BaseModel.ts:21](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L21)
 
 ___
 
@@ -364,7 +364,7 @@ ___
 
 #### Defined in
 
-src/models/PreassignedFareProduct.ts:9
+[src/models/PreassignedFareProduct.ts:9](https://github.com/entur/products-models/blob/main/src/models/PreassignedFareProduct.ts#L9)
 
 ___
 
@@ -378,7 +378,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:15
+[src/models/BaseModel.ts:15](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L15)
 
 ## Methods
 
@@ -402,7 +402,7 @@ src/models/BaseModel.ts:15
 
 #### Defined in
 
-src/models/FareProduct.ts:74
+[src/models/FareProduct.ts:74](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L74)
 
 ___
 
@@ -428,7 +428,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:137
+[src/models/FareProduct.ts:137](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L137)
 
 ___
 
@@ -453,7 +453,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:99
+[src/models/FareProduct.ts:99](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L99)
 
 ___
 
@@ -471,7 +471,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:95
+[src/models/FareProduct.ts:95](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L95)
 
 ___
 
@@ -495,7 +495,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:154
+[src/models/FareProduct.ts:154](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L154)
 
 ___
 
@@ -519,7 +519,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:164
+[src/models/FareProduct.ts:164](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L164)
 
 ___
 
@@ -539,7 +539,7 @@ TODO: Remove this code once the inconsistent naming of the "accessRightParameter
 
 #### Defined in
 
-src/models/Dorito.ts:35
+[src/models/Dorito.ts:35](https://github.com/entur/products-models/blob/main/src/models/Dorito.ts#L35)
 
 ___
 
@@ -563,7 +563,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:87
+[src/models/FareProduct.ts:87](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L87)
 
 ___
 
@@ -588,7 +588,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:118
+[src/models/FareProduct.ts:118](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L118)
 
 ___
 
@@ -612,7 +612,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:203
+[src/models/FareProduct.ts:203](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L203)
 
 ___
 
@@ -630,7 +630,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:147
+[src/models/BaseModel.ts:147](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L147)
 
 ___
 
@@ -655,7 +655,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:160
+[src/models/BaseModel.ts:160](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L160)
 
 ___
 
@@ -679,7 +679,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:189
+[src/models/FareProduct.ts:189](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L189)
 
 ___
 
@@ -703,7 +703,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:64
+[src/models/BaseModel.ts:64](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L64)
 
 ___
 
@@ -728,7 +728,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:68
+[src/models/BaseModel.ts:68](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L68)
 
 ___
 
@@ -746,7 +746,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:134
+[src/models/BaseModel.ts:134](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L134)
 
 ___
 
@@ -770,7 +770,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:140
+[src/models/BaseModel.ts:140](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L140)
 
 ___
 
@@ -796,7 +796,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:80
+[src/models/BaseModel.ts:80](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L80)
 
 ___
 
@@ -821,7 +821,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:110
+[src/models/BaseModel.ts:110](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L110)
 
 ___
 
@@ -845,7 +845,7 @@ ___
 
 #### Defined in
 
-src/models/FareProduct.ts:175
+[src/models/FareProduct.ts:175](https://github.com/entur/products-models/blob/main/src/models/FareProduct.ts#L175)
 
 ___
 
@@ -863,4 +863,4 @@ ___
 
 #### Defined in
 
-src/models/PreassignedFareProduct.ts:15
+[src/models/PreassignedFareProduct.ts:15](https://github.com/entur/products-models/blob/main/src/models/PreassignedFareProduct.ts#L15)

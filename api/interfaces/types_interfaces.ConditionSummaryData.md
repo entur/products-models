@@ -12,7 +12,7 @@
 
 #### Defined in
 
-src/types/interfaces.ts:208
+[src/types/interfaces.ts:208](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L208)
 
 ___
 
@@ -22,7 +22,7 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:210
+[src/types/interfaces.ts:210](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L210)
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 #### Defined in
 
-src/types/interfaces.ts:209
+[src/types/interfaces.ts:209](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L209)

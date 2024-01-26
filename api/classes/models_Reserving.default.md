@@ -32,7 +32,7 @@
 
 #### Defined in
 
-src/models/Reserving.ts:27
+[src/models/Reserving.ts:27](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L27)
 
 ## Properties
 
@@ -46,7 +46,7 @@ src/models/Reserving.ts:27
 
 #### Defined in
 
-src/models/BaseModel.ts:19
+[src/models/BaseModel.ts:19](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L19)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:16
+[src/models/BaseModel.ts:16](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L16)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:18
+[src/models/BaseModel.ts:18](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L18)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:23
+[src/models/BaseModel.ts:23](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L23)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:25
+[src/models/BaseModel.ts:25](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L25)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:16
+[src/models/Reserving.ts:16](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L16)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:17
+[src/models/Reserving.ts:17](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L17)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:24
+[src/models/Reserving.ts:24](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L24)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:14
+[src/models/BaseModel.ts:14](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L14)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:22
+[src/models/Reserving.ts:22](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L22)
 
 ___
 
@@ -166,7 +166,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:21
+[src/models/Reserving.ts:21](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L21)
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:20
+[src/models/BaseModel.ts:20](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L20)
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:25
+[src/models/Reserving.ts:25](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L25)
 
 ___
 
@@ -204,7 +204,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:22
+[src/models/BaseModel.ts:22](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L22)
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:17
+[src/models/BaseModel.ts:17](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L17)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:18
+[src/models/Reserving.ts:18](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L18)
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:23
+[src/models/Reserving.ts:23](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L23)
 
 ___
 
@@ -248,7 +248,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:20
+[src/models/Reserving.ts:20](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L20)
 
 ___
 
@@ -262,7 +262,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:21
+[src/models/BaseModel.ts:21](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L21)
 
 ___
 
@@ -272,7 +272,7 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:19
+[src/models/Reserving.ts:19](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L19)
 
 ___
 
@@ -286,7 +286,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:15
+[src/models/BaseModel.ts:15](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L15)
 
 ## Methods
 
@@ -310,7 +310,7 @@ src/models/BaseModel.ts:15
 
 #### Defined in
 
-src/models/Reserving.ts:67
+[src/models/Reserving.ts:67](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L67)
 
 ___
 
@@ -328,7 +328,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:147
+[src/models/BaseModel.ts:147](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L147)
 
 ___
 
@@ -353,7 +353,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:160
+[src/models/BaseModel.ts:160](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L160)
 
 ___
 
@@ -377,7 +377,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:156
+[src/models/BaseModel.ts:156](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L156)
 
 ___
 
@@ -401,7 +401,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:64
+[src/models/BaseModel.ts:64](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L64)
 
 ___
 
@@ -426,7 +426,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:68
+[src/models/BaseModel.ts:68](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L68)
 
 ___
 
@@ -444,7 +444,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:134
+[src/models/BaseModel.ts:134](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L134)
 
 ___
 
@@ -468,7 +468,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:140
+[src/models/BaseModel.ts:140](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L140)
 
 ___
 
@@ -494,7 +494,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:80
+[src/models/BaseModel.ts:80](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L80)
 
 ___
 
@@ -519,7 +519,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:110
+[src/models/BaseModel.ts:110](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L110)
 
 ___
 
@@ -543,7 +543,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:128
+[src/models/BaseModel.ts:128](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L128)
 
 ___
 
@@ -557,4 +557,4 @@ ___
 
 #### Defined in
 
-src/models/Reserving.ts:63
+[src/models/Reserving.ts:63](https://github.com/entur/products-models/blob/main/src/models/Reserving.ts#L63)

@@ -38,4 +38,4 @@ console.log(uniqueValues); // [1, 2, 3, 4, 5]
 
 #### Defined in
 
-src/utils/unique-values-in-array.ts:13
+[src/utils/unique-values-in-array.ts:13](https://github.com/entur/products-models/blob/main/src/utils/unique-values-in-array.ts#L13)

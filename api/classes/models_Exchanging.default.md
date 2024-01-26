@@ -32,7 +32,7 @@
 
 #### Defined in
 
-src/models/Exchanging.ts:37
+[src/models/Exchanging.ts:37](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L37)
 
 ## Properties
 
@@ -42,7 +42,7 @@ src/models/Exchanging.ts:37
 
 #### Defined in
 
-src/models/Exchanging.ts:20
+[src/models/Exchanging.ts:20](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L20)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:27
+[src/models/Exchanging.ts:27](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L27)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:19
+[src/models/BaseModel.ts:19](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L19)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:16
+[src/models/BaseModel.ts:16](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L16)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:18
+[src/models/BaseModel.ts:18](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L18)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:23
+[src/models/BaseModel.ts:23](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L23)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:29
+[src/models/Exchanging.ts:29](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L29)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:24
+[src/models/Exchanging.ts:24](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L24)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:34
+[src/models/Exchanging.ts:34](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L34)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:30
+[src/models/Exchanging.ts:30](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L30)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:25
+[src/models/Exchanging.ts:25](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L25)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:25
+[src/models/BaseModel.ts:25](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L25)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:18
+[src/models/Exchanging.ts:18](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L18)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:19
+[src/models/Exchanging.ts:19](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L19)
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:23
+[src/models/Exchanging.ts:23](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L23)
 
 ___
 
@@ -216,7 +216,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:14
+[src/models/BaseModel.ts:14](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L14)
 
 ___
 
@@ -230,7 +230,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:20
+[src/models/BaseModel.ts:20](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L20)
 
 ___
 
@@ -244,7 +244,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:22
+[src/models/BaseModel.ts:22](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L22)
 
 ___
 
@@ -258,7 +258,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:17
+[src/models/BaseModel.ts:17](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L17)
 
 ___
 
@@ -268,7 +268,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:32
+[src/models/Exchanging.ts:32](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L32)
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:28
+[src/models/Exchanging.ts:28](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L28)
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:21
+[src/models/Exchanging.ts:21](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L21)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:31
+[src/models/Exchanging.ts:31](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L31)
 
 ___
 
@@ -308,7 +308,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:26
+[src/models/Exchanging.ts:26](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L26)
 
 ___
 
@@ -318,7 +318,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:35
+[src/models/Exchanging.ts:35](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L35)
 
 ___
 
@@ -332,7 +332,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:21
+[src/models/BaseModel.ts:21](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L21)
 
 ___
 
@@ -342,7 +342,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:33
+[src/models/Exchanging.ts:33](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L33)
 
 ___
 
@@ -352,7 +352,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:22
+[src/models/Exchanging.ts:22](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L22)
 
 ___
 
@@ -366,7 +366,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:15
+[src/models/BaseModel.ts:15](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L15)
 
 ## Methods
 
@@ -386,7 +386,7 @@ src/models/BaseModel.ts:15
 
 #### Defined in
 
-src/models/Exchanging.ts:103
+[src/models/Exchanging.ts:103](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L103)
 
 ___
 
@@ -406,7 +406,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:95
+[src/models/Exchanging.ts:95](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L95)
 
 ___
 
@@ -430,7 +430,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:115
+[src/models/Exchanging.ts:115](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L115)
 
 ___
 
@@ -448,7 +448,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:147
+[src/models/BaseModel.ts:147](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L147)
 
 ___
 
@@ -473,7 +473,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:160
+[src/models/BaseModel.ts:160](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L160)
 
 ___
 
@@ -497,7 +497,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:156
+[src/models/BaseModel.ts:156](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L156)
 
 ___
 
@@ -521,7 +521,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:64
+[src/models/BaseModel.ts:64](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L64)
 
 ___
 
@@ -546,7 +546,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:68
+[src/models/BaseModel.ts:68](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L68)
 
 ___
 
@@ -564,7 +564,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:134
+[src/models/BaseModel.ts:134](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L134)
 
 ___
 
@@ -588,7 +588,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:140
+[src/models/BaseModel.ts:140](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L140)
 
 ___
 
@@ -614,7 +614,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:80
+[src/models/BaseModel.ts:80](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L80)
 
 ___
 
@@ -639,7 +639,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:110
+[src/models/BaseModel.ts:110](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L110)
 
 ___
 
@@ -663,7 +663,7 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:109
+[src/models/Exchanging.ts:109](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L109)
 
 ___
 
@@ -677,4 +677,4 @@ ___
 
 #### Defined in
 
-src/models/Exchanging.ts:91
+[src/models/Exchanging.ts:91](https://github.com/entur/products-models/blob/main/src/models/Exchanging.ts#L91)

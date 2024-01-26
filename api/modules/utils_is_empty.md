@@ -44,4 +44,4 @@ console.log(isEmptyObject); // true
 
 #### Defined in
 
-src/utils/is-empty.ts:25
+[src/utils/is-empty.ts:25](https://github.com/entur/products-models/blob/main/src/utils/is-empty.ts#L25)

@@ -12,7 +12,7 @@
 
 #### Defined in
 
-src/types/enums/index.ts:75
+[src/types/enums/index.ts:75](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L75)
 
 ___
 
@@ -22,7 +22,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:73
+[src/types/enums/index.ts:73](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L73)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:76
+[src/types/enums/index.ts:76](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L76)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:74
+[src/types/enums/index.ts:74](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L74)

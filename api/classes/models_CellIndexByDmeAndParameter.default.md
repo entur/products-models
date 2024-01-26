@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/CellIndexByDmeAndParameter.ts:11
+[src/models/CellIndexByDmeAndParameter.ts:11](https://github.com/entur/products-models/blob/main/src/models/CellIndexByDmeAndParameter.ts#L11)
 
 ## Properties
 
@@ -32,7 +32,7 @@ src/models/CellIndexByDmeAndParameter.ts:11
 
 #### Defined in
 
-src/models/CellIndexByDmeAndParameter.ts:9
+[src/models/CellIndexByDmeAndParameter.ts:9](https://github.com/entur/products-models/blob/main/src/models/CellIndexByDmeAndParameter.ts#L9)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/models/CellIndexByDmeAndParameter.ts:10
+[src/models/CellIndexByDmeAndParameter.ts:10](https://github.com/entur/products-models/blob/main/src/models/CellIndexByDmeAndParameter.ts#L10)
 
 ## Methods
 
@@ -63,4 +63,4 @@ src/models/CellIndexByDmeAndParameter.ts:10
 
 #### Defined in
 
-src/models/CellIndexByDmeAndParameter.ts:38
+[src/models/CellIndexByDmeAndParameter.ts:38](https://github.com/entur/products-models/blob/main/src/models/CellIndexByDmeAndParameter.ts#L38)

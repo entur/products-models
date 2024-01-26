@@ -26,7 +26,7 @@
 
 #### Defined in
 
-src/models/Organisation.ts:18
+[src/models/Organisation.ts:18](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L18)
 
 ## Properties
 
@@ -40,7 +40,7 @@ src/models/Organisation.ts:18
 
 #### Defined in
 
-src/models/Organisation.ts:10
+[src/models/Organisation.ts:10](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L10)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:11
+[src/models/Organisation.ts:11](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L11)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:7
+[src/models/Organisation.ts:7](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L7)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:9
+[src/models/Organisation.ts:9](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L9)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:13
+[src/models/Organisation.ts:13](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L13)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:8
+[src/models/Organisation.ts:8](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L8)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:14
+[src/models/Organisation.ts:14](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L14)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:12
+[src/models/Organisation.ts:12](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L12)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:15
+[src/models/Organisation.ts:15](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L15)
 
 ## Methods
 
@@ -166,7 +166,7 @@ src/models/Organisation.ts:15
 
 #### Defined in
 
-src/models/Organisation.ts:55
+[src/models/Organisation.ts:55](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L55)
 
 ___
 
@@ -180,7 +180,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:44
+[src/models/Organisation.ts:44](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L44)
 
 ___
 
@@ -194,7 +194,7 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:51
+[src/models/Organisation.ts:51](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L51)
 
 ___
 
@@ -214,4 +214,4 @@ ___
 
 #### Defined in
 
-src/models/Organisation.ts:37
+[src/models/Organisation.ts:37](https://github.com/entur/products-models/blob/main/src/models/Organisation.ts#L37)

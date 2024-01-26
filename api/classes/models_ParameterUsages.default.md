@@ -22,7 +22,7 @@
 
 #### Defined in
 
-src/models/ParameterUsages.ts:7
+[src/models/ParameterUsages.ts:7](https://github.com/entur/products-models/blob/main/src/models/ParameterUsages.ts#L7)
 
 ## Properties
 
@@ -32,4 +32,4 @@ src/models/ParameterUsages.ts:7
 
 #### Defined in
 
-src/models/ParameterUsages.ts:6
+[src/models/ParameterUsages.ts:6](https://github.com/entur/products-models/blob/main/src/models/ParameterUsages.ts#L6)

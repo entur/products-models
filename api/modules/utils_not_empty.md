@@ -36,4 +36,4 @@ console.log(isEmpty); // false
 
 #### Defined in
 
-src/utils/not-empty.ts:19
+[src/utils/not-empty.ts:19](https://github.com/entur/products-models/blob/main/src/utils/not-empty.ts#L19)

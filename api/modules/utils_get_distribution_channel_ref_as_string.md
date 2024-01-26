@@ -39,4 +39,4 @@ console.log(refAsStringDirect); // 'directChannel'
 
 #### Defined in
 
-src/utils/get-distribution-channel-ref-as-string.ts:18
+[src/utils/get-distribution-channel-ref-as-string.ts:18](https://github.com/entur/products-models/blob/main/src/utils/get-distribution-channel-ref-as-string.ts#L18)

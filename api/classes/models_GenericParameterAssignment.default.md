@@ -32,7 +32,7 @@
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:52
+[src/models/GenericParameterAssignment.ts:52](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L52)
 
 ## Properties
 
@@ -42,7 +42,7 @@ src/models/GenericParameterAssignment.ts:52
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:49
+[src/models/GenericParameterAssignment.ts:49](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L49)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:19
+[src/models/BaseModel.ts:19](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L19)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:40
+[src/models/GenericParameterAssignment.ts:40](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L40)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:16
+[src/models/BaseModel.ts:16](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L16)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:50
+[src/models/GenericParameterAssignment.ts:50](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L50)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:18
+[src/models/BaseModel.ts:18](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L18)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:23
+[src/models/BaseModel.ts:23](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L23)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:25
+[src/models/BaseModel.ts:25](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L25)
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:44
+[src/models/GenericParameterAssignment.ts:44](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L44)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:14
+[src/models/BaseModel.ts:14](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L14)
 
 ___
 
@@ -166,7 +166,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:38
+[src/models/GenericParameterAssignment.ts:38](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L38)
 
 ___
 
@@ -176,7 +176,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:39
+[src/models/GenericParameterAssignment.ts:39](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L39)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:33
+[src/models/GenericParameterAssignment.ts:33](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L33)
 
 ___
 
@@ -196,7 +196,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:43
+[src/models/GenericParameterAssignment.ts:43](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L43)
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:32
+[src/models/GenericParameterAssignment.ts:32](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L32)
 
 ___
 
@@ -220,7 +220,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:20
+[src/models/BaseModel.ts:20](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L20)
 
 ___
 
@@ -234,7 +234,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:22
+[src/models/BaseModel.ts:22](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L22)
 
 ___
 
@@ -248,7 +248,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:17
+[src/models/BaseModel.ts:17](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L17)
 
 ___
 
@@ -258,7 +258,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:48
+[src/models/GenericParameterAssignment.ts:48](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L48)
 
 ___
 
@@ -268,7 +268,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:46
+[src/models/GenericParameterAssignment.ts:46](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L46)
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:45
+[src/models/GenericParameterAssignment.ts:45](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L45)
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:41
+[src/models/GenericParameterAssignment.ts:41](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L41)
 
 ___
 
@@ -302,7 +302,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:21
+[src/models/BaseModel.ts:21](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L21)
 
 ___
 
@@ -312,7 +312,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:37
+[src/models/GenericParameterAssignment.ts:37](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L37)
 
 ___
 
@@ -322,7 +322,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:42
+[src/models/GenericParameterAssignment.ts:42](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L42)
 
 ___
 
@@ -332,7 +332,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:36
+[src/models/GenericParameterAssignment.ts:36](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L36)
 
 ___
 
@@ -342,7 +342,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:35
+[src/models/GenericParameterAssignment.ts:35](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L35)
 
 ___
 
@@ -352,7 +352,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:47
+[src/models/GenericParameterAssignment.ts:47](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L47)
 
 ___
 
@@ -362,7 +362,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:34
+[src/models/GenericParameterAssignment.ts:34](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L34)
 
 ___
 
@@ -376,7 +376,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:15
+[src/models/BaseModel.ts:15](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L15)
 
 ## Methods
 
@@ -396,7 +396,7 @@ src/models/BaseModel.ts:15
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:152
+[src/models/GenericParameterAssignment.ts:152](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L152)
 
 ___
 
@@ -416,7 +416,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:229
+[src/models/GenericParameterAssignment.ts:229](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L229)
 
 ___
 
@@ -436,7 +436,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:233
+[src/models/GenericParameterAssignment.ts:233](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L233)
 
 ___
 
@@ -456,7 +456,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:167
+[src/models/GenericParameterAssignment.ts:167](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L167)
 
 ___
 
@@ -476,7 +476,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:298
+[src/models/GenericParameterAssignment.ts:298](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L298)
 
 ___
 
@@ -490,7 +490,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:114
+[src/models/GenericParameterAssignment.ts:114](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L114)
 
 ___
 
@@ -504,7 +504,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:128
+[src/models/GenericParameterAssignment.ts:128](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L128)
 
 ___
 
@@ -518,7 +518,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:140
+[src/models/GenericParameterAssignment.ts:140](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L140)
 
 ___
 
@@ -532,7 +532,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:118
+[src/models/GenericParameterAssignment.ts:118](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L118)
 
 ___
 
@@ -546,7 +546,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:144
+[src/models/GenericParameterAssignment.ts:144](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L144)
 
 ___
 
@@ -560,7 +560,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:288
+[src/models/GenericParameterAssignment.ts:288](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L288)
 
 ___
 
@@ -580,7 +580,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:158
+[src/models/GenericParameterAssignment.ts:158](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L158)
 
 ___
 
@@ -600,7 +600,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:247
+[src/models/GenericParameterAssignment.ts:247](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L247)
 
 ___
 
@@ -620,7 +620,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:181
+[src/models/GenericParameterAssignment.ts:181](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L181)
 
 ___
 
@@ -641,7 +641,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:253
+[src/models/GenericParameterAssignment.ts:253](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L253)
 
 ___
 
@@ -665,7 +665,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:375
+[src/models/GenericParameterAssignment.ts:375](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L375)
 
 ___
 
@@ -683,7 +683,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:147
+[src/models/BaseModel.ts:147](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L147)
 
 ___
 
@@ -708,7 +708,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:160
+[src/models/BaseModel.ts:160](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L160)
 
 ___
 
@@ -732,7 +732,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:278
+[src/models/GenericParameterAssignment.ts:278](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L278)
 
 ___
 
@@ -753,7 +753,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:237
+[src/models/GenericParameterAssignment.ts:237](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L237)
 
 ___
 
@@ -773,7 +773,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:173
+[src/models/GenericParameterAssignment.ts:173](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L173)
 
 ___
 
@@ -797,7 +797,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:64
+[src/models/BaseModel.ts:64](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L64)
 
 ___
 
@@ -822,7 +822,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:68
+[src/models/BaseModel.ts:68](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L68)
 
 ___
 
@@ -840,7 +840,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:134
+[src/models/BaseModel.ts:134](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L134)
 
 ___
 
@@ -864,7 +864,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:140
+[src/models/BaseModel.ts:140](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L140)
 
 ___
 
@@ -890,7 +890,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:80
+[src/models/BaseModel.ts:80](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L80)
 
 ___
 
@@ -915,7 +915,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:110
+[src/models/BaseModel.ts:110](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L110)
 
 ___
 
@@ -936,7 +936,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:189
+[src/models/GenericParameterAssignment.ts:189](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L189)
 
 ___
 
@@ -956,7 +956,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:164
+[src/models/GenericParameterAssignment.ts:164](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L164)
 
 ___
 
@@ -980,7 +980,7 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:266
+[src/models/GenericParameterAssignment.ts:266](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L266)
 
 ___
 
@@ -994,4 +994,4 @@ ___
 
 #### Defined in
 
-src/models/GenericParameterAssignment.ts:110
+[src/models/GenericParameterAssignment.ts:110](https://github.com/entur/products-models/blob/main/src/models/GenericParameterAssignment.ts#L110)

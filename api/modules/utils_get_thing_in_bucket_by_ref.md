@@ -47,4 +47,4 @@ console.log(thingInstance); // { id: '123', version: '1.0', name: 'ExampleThing'
 
 #### Defined in
 
-src/utils/get-thing-in-bucket-by-ref.ts:27
+[src/utils/get-thing-in-bucket-by-ref.ts:27](https://github.com/entur/products-models/blob/main/src/utils/get-thing-in-bucket-by-ref.ts#L27)

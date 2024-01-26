@@ -32,7 +32,7 @@
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:17
+[src/models/AccessRightInProduct.ts:17](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L17)
 
 ## Properties
 
@@ -42,7 +42,7 @@ src/models/AccessRightInProduct.ts:17
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:13
+[src/models/AccessRightInProduct.ts:13](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L13)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:14
+[src/models/AccessRightInProduct.ts:14](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L14)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:19
+[src/models/BaseModel.ts:19](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L19)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:16
+[src/models/BaseModel.ts:16](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L16)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:18
+[src/models/BaseModel.ts:18](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L18)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:23
+[src/models/BaseModel.ts:23](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L23)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:25
+[src/models/BaseModel.ts:25](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L25)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:14
+[src/models/BaseModel.ts:14](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L14)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:16
+[src/models/AccessRightInProduct.ts:16](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L16)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:15
+[src/models/AccessRightInProduct.ts:15](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L15)
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:20
+[src/models/BaseModel.ts:20](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L20)
 
 ___
 
@@ -184,7 +184,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:22
+[src/models/BaseModel.ts:22](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L22)
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:17
+[src/models/BaseModel.ts:17](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L17)
 
 ___
 
@@ -208,7 +208,7 @@ ___
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:11
+[src/models/AccessRightInProduct.ts:11](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L11)
 
 ___
 
@@ -222,7 +222,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:21
+[src/models/BaseModel.ts:21](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L21)
 
 ___
 
@@ -232,7 +232,7 @@ ___
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:12
+[src/models/AccessRightInProduct.ts:12](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L12)
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:15
+[src/models/BaseModel.ts:15](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L15)
 
 ## Methods
 
@@ -270,7 +270,7 @@ src/models/BaseModel.ts:15
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:59
+[src/models/AccessRightInProduct.ts:59](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L59)
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:147
+[src/models/BaseModel.ts:147](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L147)
 
 ___
 
@@ -313,7 +313,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:160
+[src/models/BaseModel.ts:160](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L160)
 
 ___
 
@@ -337,7 +337,7 @@ ___
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:49
+[src/models/AccessRightInProduct.ts:49](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L49)
 
 ___
 
@@ -361,7 +361,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:64
+[src/models/BaseModel.ts:64](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L64)
 
 ___
 
@@ -386,7 +386,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:68
+[src/models/BaseModel.ts:68](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L68)
 
 ___
 
@@ -404,7 +404,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:134
+[src/models/BaseModel.ts:134](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L134)
 
 ___
 
@@ -428,7 +428,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:140
+[src/models/BaseModel.ts:140](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L140)
 
 ___
 
@@ -454,7 +454,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:80
+[src/models/BaseModel.ts:80](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L80)
 
 ___
 
@@ -479,7 +479,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:110
+[src/models/BaseModel.ts:110](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L110)
 
 ___
 
@@ -503,7 +503,7 @@ ___
 
 #### Defined in
 
-src/models/BaseModel.ts:128
+[src/models/BaseModel.ts:128](https://github.com/entur/products-models/blob/main/src/models/BaseModel.ts#L128)
 
 ___
 
@@ -517,4 +517,4 @@ ___
 
 #### Defined in
 
-src/models/AccessRightInProduct.ts:45
+[src/models/AccessRightInProduct.ts:45](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L45)

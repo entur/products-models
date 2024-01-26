@@ -10,7 +10,7 @@
 
 #### Defined in
 
-src/types/types.ts:14
+[src/types/types.ts:14](https://github.com/entur/products-models/blob/main/src/types/types.ts#L14)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:22
+[src/types/types.ts:22](https://github.com/entur/products-models/blob/main/src/types/types.ts#L22)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:20
+[src/types/types.ts:20](https://github.com/entur/products-models/blob/main/src/types/types.ts#L20)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:73
+[src/types/types.ts:73](https://github.com/entur/products-models/blob/main/src/types/types.ts#L73)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:33
+[src/types/types.ts:33](https://github.com/entur/products-models/blob/main/src/types/types.ts#L33)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:67
+[src/types/types.ts:67](https://github.com/entur/products-models/blob/main/src/types/types.ts#L67)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:8
+[src/types/types.ts:8](https://github.com/entur/products-models/blob/main/src/types/types.ts#L8)
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:59
+[src/types/types.ts:59](https://github.com/entur/products-models/blob/main/src/types/types.ts#L59)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-src/types/types.ts:28
+[src/types/types.ts:28](https://github.com/entur/products-models/blob/main/src/types/types.ts#L28)
 
 ___
 
@@ -168,4 +168,4 @@ ___
 
 #### Defined in
 
-src/types/types.ts:11
+[src/types/types.ts:11](https://github.com/entur/products-models/blob/main/src/types/types.ts#L11)

@@ -12,7 +12,7 @@
 
 #### Defined in
 
-src/types/enums/index.ts:196
+[src/types/enums/index.ts:196](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L196)
 
 ___
 
@@ -22,7 +22,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:191
+[src/types/enums/index.ts:191](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L191)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:190
+[src/types/enums/index.ts:190](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L190)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:187
+[src/types/enums/index.ts:187](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L187)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:193
+[src/types/enums/index.ts:193](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L193)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:195
+[src/types/enums/index.ts:195](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L195)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:188
+[src/types/enums/index.ts:188](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L188)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:194
+[src/types/enums/index.ts:194](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L194)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:189
+[src/types/enums/index.ts:189](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L189)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:192
+[src/types/enums/index.ts:192](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L192)
 
 ___
 
@@ -112,4 +112,4 @@ ___
 
 #### Defined in
 
-src/types/enums/index.ts:197
+[src/types/enums/index.ts:197](https://github.com/entur/products-models/blob/main/src/types/enums/index.ts#L197)
