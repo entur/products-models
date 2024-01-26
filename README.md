@@ -25,7 +25,7 @@ npm i -S @entur-partner/products-models
 ## Release
 
 ```shell-session
-npm run releasse
+npm run release
 ```
 
 ## API
