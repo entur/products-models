@@ -11,7 +11,7 @@
     "clean": "rm -rf dist/ dts/ api/",
     "commit": "npx git-cz",
     "docs:gen": "node ./node_modules/.bin/typedoc --entryPoints src --entryPointStrategy expand --gitRevision main --githubPages false --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --hideInPageTOC --out api --readme none",
-    "release": "release-it",
+    "release": "git add . --update && release-it",
     "rollup": "rollup -c",
     "prerollup:dev": "npm run clean",
     "rollup:dev": "rollup -c -w",
