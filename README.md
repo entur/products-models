@@ -1,4 +1,4 @@
-# @entur-partner/products-models
+# @entur/products-models
 
 The models used for the products bff and client
 
@@ -19,7 +19,7 @@ The models used for the products bff and client
 ## Install
 
 ```shell-session
-npm i -S @entur-partner/products-models
+npm i -S @entur/products-models
 ```
 
 ## Release
