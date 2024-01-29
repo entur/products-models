@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/GeneralGroupOfEntities](../modules/models_GeneralGroupOfEntities.md) / default
+[@entur/products-models](../README.md) / [models/GeneralGroupOfEntities](../modules/models_GeneralGroupOfEntities.md) / default
 
 # Class: default
 

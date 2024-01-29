@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/SteppedDuration](../modules/models_SteppedDuration.md) / default
+[@entur/products-models](../README.md) / [models/SteppedDuration](../modules/models_SteppedDuration.md) / default
 
 # Class: default
 

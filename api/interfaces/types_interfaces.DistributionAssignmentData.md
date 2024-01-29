@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / DistributionAssignmentData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / DistributionAssignmentData
 
 # Interface: DistributionAssignmentData
 

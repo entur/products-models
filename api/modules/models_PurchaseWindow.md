@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/PurchaseWindow
+[@entur/products-models](../README.md) / models/PurchaseWindow
 
 # Module: models/PurchaseWindow
 

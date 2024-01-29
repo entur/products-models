@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/get-distribution-channel-ref-as-string
+[@entur/products-models](../README.md) / utils/get-distribution-channel-ref-as-string
 
 # Module: utils/get-distribution-channel-ref-as-string
 

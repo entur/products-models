@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / BaseModelData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / BaseModelData
 
 # Interface: BaseModelData
 

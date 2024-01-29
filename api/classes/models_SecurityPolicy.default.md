@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/SecurityPolicy](../modules/models_SecurityPolicy.md) / default
+[@entur/products-models](../README.md) / [models/SecurityPolicy](../modules/models_SecurityPolicy.md) / default
 
 # Class: default
 

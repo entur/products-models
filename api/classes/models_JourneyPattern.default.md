@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/JourneyPattern](../modules/models_JourneyPattern.md) / default
+[@entur/products-models](../README.md) / [models/JourneyPattern](../modules/models_JourneyPattern.md) / default
 
 # Class: default
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/GroupOfTariffZone
+[@entur/products-models](../README.md) / models/GroupOfTariffZone
 
 # Module: models/GroupOfTariffZone
 

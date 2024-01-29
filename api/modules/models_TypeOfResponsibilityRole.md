@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/TypeOfResponsibilityRole
+[@entur/products-models](../README.md) / models/TypeOfResponsibilityRole
 
 # Module: models/TypeOfResponsibilityRole
 

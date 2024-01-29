@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/FulfilmentMethod
+[@entur/products-models](../README.md) / models/FulfilmentMethod
 
 # Module: models/FulfilmentMethod
 

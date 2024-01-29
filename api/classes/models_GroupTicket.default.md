@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/GroupTicket](../modules/models_GroupTicket.md) / default
+[@entur/products-models](../README.md) / [models/GroupTicket](../modules/models_GroupTicket.md) / default
 
 # Class: default
 

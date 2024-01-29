@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/SecurityPolicy
+[@entur/products-models](../README.md) / models/SecurityPolicy
 
 # Module: models/SecurityPolicy
 

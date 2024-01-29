@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / MetaDataData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / MetaDataData
 
 # Interface: MetaDataData
 

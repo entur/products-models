@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/Timeband](../modules/models_Timeband.md) / default
+[@entur/products-models](../README.md) / [models/Timeband](../modules/models_Timeband.md) / default
 
 # Class: default
 

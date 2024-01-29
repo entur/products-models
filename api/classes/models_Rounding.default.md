@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/Rounding](../modules/models_Rounding.md) / default
+[@entur/products-models](../README.md) / [models/Rounding](../modules/models_Rounding.md) / default
 
 # Class: default
 

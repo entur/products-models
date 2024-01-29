@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/DistributionAssignment
+[@entur/products-models](../README.md) / models/DistributionAssignment
 
 # Module: models/DistributionAssignment
 

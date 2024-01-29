@@ -1,6 +1,6 @@
-@entur-partner/products-models
+@entur/products-models
 
-# @entur-partner/products-models
+# @entur/products-models
 
 ## Modules
 

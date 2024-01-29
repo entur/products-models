@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/FareStructureElementInSequence](../modules/models_FareStructureElementInSequence.md) / default
+[@entur/products-models](../README.md) / [models/FareStructureElementInSequence](../modules/models_FareStructureElementInSequence.md) / default
 
 # Class: default
 

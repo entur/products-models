@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/TemporalValidityParameter
+[@entur/products-models](../README.md) / models/TemporalValidityParameter
 
 # Module: models/TemporalValidityParameter
 

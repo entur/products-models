@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/PurchaseWindow](../modules/models_PurchaseWindow.md) / default
+[@entur/products-models](../README.md) / [models/PurchaseWindow](../modules/models_PurchaseWindow.md) / default
 
 # Class: default
 

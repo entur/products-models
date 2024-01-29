@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/not-empty
+[@entur/products-models](../README.md) / utils/not-empty
 
 # Module: utils/not-empty
 

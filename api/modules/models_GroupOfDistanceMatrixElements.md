@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/GroupOfDistanceMatrixElements
+[@entur/products-models](../README.md) / models/GroupOfDistanceMatrixElements
 
 # Module: models/GroupOfDistanceMatrixElements
 

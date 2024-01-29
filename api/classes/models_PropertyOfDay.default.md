@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/PropertyOfDay](../modules/models_PropertyOfDay.md) / default
+[@entur/products-models](../README.md) / [models/PropertyOfDay](../modules/models_PropertyOfDay.md) / default
 
 # Class: default
 

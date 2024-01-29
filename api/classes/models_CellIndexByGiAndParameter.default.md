@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/CellIndexByGiAndParameter](../modules/models_CellIndexByGiAndParameter.md) / default
+[@entur/products-models](../README.md) / [models/CellIndexByGiAndParameter](../modules/models_CellIndexByGiAndParameter.md) / default
 
 # Class: default
 

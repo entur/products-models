@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ParameterUsages
+[@entur/products-models](../README.md) / models/ParameterUsages
 
 # Module: models/ParameterUsages
 

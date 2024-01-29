@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/Dorito](../modules/models_Dorito.md) / default
+[@entur/products-models](../README.md) / [models/Dorito](../modules/models_Dorito.md) / default
 
 # Class: default
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/GeographicalStructureFactor](../modules/models_GeographicalStructureFactor.md) / default
+[@entur/products-models](../README.md) / [models/GeographicalStructureFactor](../modules/models_GeographicalStructureFactor.md) / default
 
 # Class: default
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / types/enums
+[@entur/products-models](../README.md) / types/enums
 
 # Module: types/enums
 

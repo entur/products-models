@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/CellIndexByDmeAndParameter
+[@entur/products-models](../README.md) / models/CellIndexByDmeAndParameter
 
 # Module: models/CellIndexByDmeAndParameter
 

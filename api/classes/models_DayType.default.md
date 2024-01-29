@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/DayType](../modules/models_DayType.md) / default
+[@entur/products-models](../README.md) / [models/DayType](../modules/models_DayType.md) / default
 
 # Class: default
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/enums](../modules/types_enums.md) / StepLimitUnit
+[@entur/products-models](../README.md) / [types/enums](../modules/types_enums.md) / StepLimitUnit
 
 # Enumeration: StepLimitUnit
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/ValidityCondition](../modules/models_ValidityCondition.md) / default
+[@entur/products-models](../README.md) / [models/ValidityCondition](../modules/models_ValidityCondition.md) / default
 
 # Class: default
 

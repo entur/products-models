@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/Reverting
+[@entur/products-models](../README.md) / models/Reverting
 
 # Module: models/Reverting
 

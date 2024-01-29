@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/GeographicalInterval
+[@entur/products-models](../README.md) / models/GeographicalInterval
 
 # Module: models/GeographicalInterval
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/enums](../modules/types_enums.md) / ValiditionRequirementEnum
+[@entur/products-models](../README.md) / [types/enums](../modules/types_enums.md) / ValiditionRequirementEnum
 
 # Enumeration: ValiditionRequirementEnum
 

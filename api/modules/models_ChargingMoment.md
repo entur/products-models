@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ChargingMoment
+[@entur/products-models](../README.md) / models/ChargingMoment
 
 # Module: models/ChargingMoment
 

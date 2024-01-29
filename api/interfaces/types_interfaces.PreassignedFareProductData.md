@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / PreassignedFareProductData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / PreassignedFareProductData
 
 # Interface: PreassignedFareProductData
 

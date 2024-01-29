@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/CompanionProfile](../modules/models_CompanionProfile.md) / default
+[@entur/products-models](../README.md) / [models/CompanionProfile](../modules/models_CompanionProfile.md) / default
 
 # Class: default
 

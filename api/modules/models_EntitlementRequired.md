@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/EntitlementRequired
+[@entur/products-models](../README.md) / models/EntitlementRequired
 
 # Module: models/EntitlementRequired
 

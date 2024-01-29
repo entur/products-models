@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ValidableElement
+[@entur/products-models](../README.md) / models/ValidableElement
 
 # Module: models/ValidableElement
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / ThingData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / ThingData
 
 # Interface: ThingData\<T\>
 

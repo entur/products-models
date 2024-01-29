@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/GroupTicket
+[@entur/products-models](../README.md) / models/GroupTicket
 
 # Module: models/GroupTicket
 

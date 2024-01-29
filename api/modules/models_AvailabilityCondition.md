@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/AvailabilityCondition
+[@entur/products-models](../README.md) / models/AvailabilityCondition
 
 # Module: models/AvailabilityCondition
 

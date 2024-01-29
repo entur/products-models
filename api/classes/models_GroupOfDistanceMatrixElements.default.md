@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/GroupOfDistanceMatrixElements](../modules/models_GroupOfDistanceMatrixElements.md) / default
+[@entur/products-models](../README.md) / [models/GroupOfDistanceMatrixElements](../modules/models_GroupOfDistanceMatrixElements.md) / default
 
 # Class: default
 

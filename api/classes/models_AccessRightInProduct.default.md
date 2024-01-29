@@ -1,8 +1,10 @@
-[@entur-partner/products-models](../README.md) / [models/AccessRightInProduct](../modules/models_AccessRightInProduct.md) / default
+[@entur/products-models](../README.md) / [models/AccessRightInProduct](../modules/models_AccessRightInProduct.md) / default
 
 # Class: default
 
 [models/AccessRightInProduct](../modules/models_AccessRightInProduct.md).default
+
+Represents an access right associated with a fare product.
 
 ## Hierarchy
 
@@ -16,11 +18,13 @@
 
 • **new default**(`data?`): [`default`](models_AccessRightInProduct.default.md)
 
+Constructs an instance of AccessRightInProduct.
+
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `data` | `Partial`\<[`AccessRightInProductData`](../interfaces/types_interfaces.AccessRightInProductData.md)\> |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `data?` | `Partial`\<[`AccessRightInProductData`](../interfaces/types_interfaces.AccessRightInProductData.md)\> | The data to initialize the instance. |
 
 #### Returns
 
@@ -32,7 +36,7 @@
 
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:17](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L17)
+[src/models/AccessRightInProduct.ts:55](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L55)
 
 ## Properties
 
@@ -40,9 +44,11 @@
 
 • `Optional` **accessNumber**: `number`
 
+Access number associated with the access right.
+
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:13](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L13)
+[src/models/AccessRightInProduct.ts:31](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L31)
 
 ___
 
@@ -50,9 +56,11 @@ ___
 
 • `Optional` **accessNumberIsLimited**: `boolean`
 
+Flag indicating if the access number is limited.
+
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:14](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L14)
+[src/models/AccessRightInProduct.ts:37](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L37)
 
 ___
 
@@ -144,9 +152,11 @@ ___
 
 • `Optional` **maximumAccess**: `number`
 
+Maximum access number allowed.
+
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:16](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L16)
+[src/models/AccessRightInProduct.ts:49](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L49)
 
 ___
 
@@ -154,9 +164,11 @@ ___
 
 • `Optional` **minimumAccess**: `number`
 
+Minimum access number allowed.
+
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:15](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L15)
+[src/models/AccessRightInProduct.ts:43](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L43)
 
 ___
 
@@ -206,9 +218,11 @@ ___
 
 • **preassignedFareProductRef**: [`default`](models_Reference.default.md)
 
+Reference to the preassigned fare product.
+
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:11](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L11)
+[src/models/AccessRightInProduct.ts:19](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L19)
 
 ___
 
@@ -230,9 +244,11 @@ ___
 
 • **validableElementRef**: [`default`](models_Reference.default.md)
 
+Reference to the validable element.
+
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:12](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L12)
+[src/models/AccessRightInProduct.ts:25](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L25)
 
 ___
 
@@ -252,17 +268,21 @@ ___
 
 ### toPayload
 
-▸ **toPayload**(`fareFrame`): `any`
+▸ **toPayload**(`fareFrame`): `object`
+
+Converts the instance to a payload, with special handling for name and description.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `fareFrame` | [`default`](models_FareFrame.default.md) |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `fareFrame` | [`default`](models_FareFrame.default.md) | The fare frame associated with the access right. |
 
 #### Returns
 
-`any`
+`object`
+
+- The payload representing the instance.
 
 #### Overrides
 
@@ -270,7 +290,7 @@ ___
 
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:59](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L59)
+[src/models/AccessRightInProduct.ts:112](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L112)
 
 ___
 
@@ -321,15 +341,19 @@ ___
 
 ▸ **updateRefs**(`bucket`): `this`
 
+Updates references in the instance based on the bucket.
+
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `bucket` | [`BucketStateType`](../modules/types_types.md#bucketstatetype) |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `bucket` | [`BucketStateType`](../modules/types_types.md#bucketstatetype) | The bucket containing references. |
 
 #### Returns
 
 `this`
+
+- The updated instance.
 
 #### Overrides
 
@@ -337,7 +361,7 @@ ___
 
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:49](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L49)
+[src/models/AccessRightInProduct.ts:97](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L97)
 
 ___
 
@@ -511,10 +535,16 @@ ___
 
 ▸ **getNameOfClass**(): `string`
 
+Gets the name of the class.
+
 #### Returns
 
 `string`
 
+- The name of the class.
+
+**`Static`**
+
 #### Defined in
 
-[src/models/AccessRightInProduct.ts:45](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L45)
+[src/models/AccessRightInProduct.ts:88](https://github.com/entur/products-models/blob/main/src/models/AccessRightInProduct.ts#L88)

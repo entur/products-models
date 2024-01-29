@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / RevertingData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / RevertingData
 
 # Interface: RevertingData
 

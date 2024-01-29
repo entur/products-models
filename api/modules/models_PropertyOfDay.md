@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/PropertyOfDay
+[@entur/products-models](../README.md) / models/PropertyOfDay
 
 # Module: models/PropertyOfDay
 

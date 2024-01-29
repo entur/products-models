@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / FareSectionData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / FareSectionData
 
 # Interface: FareSectionData
 
