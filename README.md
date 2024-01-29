@@ -7,7 +7,7 @@ The models used for the products bff and client
 ```json
 {
   …
-  "enginges": {
+  "engines": {
     "node": ">=20.10.0",
     "yarn": ">=1.22.19",
     "npm": ">=10.2.3"
