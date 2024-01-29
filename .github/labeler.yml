@@ -1,0 +1,32 @@
+'section: workflows':
+  - .github/workflows/**
+'section: repo':
+  - '*'
+'experience: developer':
+  - '.editorconfig'
+  - '.eslintignore'
+  - '.eslintrc.json'
+  - '.eslintrc.js'
+  - '.gitignore'
+  - '.release-it.json'
+  - '.renovate.json'
+  - '.npmrc'
+  - '.prettierrc'
+  - 'tslint.json'
+'context: github':
+  - .github/**
+'context: docker':
+  - Dockerfile
+'context: npm':
+  - '.npmrc'
+'context: rollup':
+  - 'rollup.config.js'
+  - 'rollup.config.mjs'
+  - 'rollup.*.config.js'
+  - 'rollup.*.config.mjs'
+'mindless: docs':
+  - '*.md'
+  - '**/*.md'
+'mindless: dependencies':
+  - 'package-lock.json'
+  - 'yarn.lock'
