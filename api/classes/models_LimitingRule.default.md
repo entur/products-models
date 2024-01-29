@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/LimitingRule](../modules/models_LimitingRule.md) / default
+[@entur/products-models](../README.md) / [models/LimitingRule](../modules/models_LimitingRule.md) / default
 
 # Class: default
 

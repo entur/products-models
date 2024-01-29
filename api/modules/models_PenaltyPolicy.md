@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/PenaltyPolicy
+[@entur/products-models](../README.md) / models/PenaltyPolicy
 
 # Module: models/PenaltyPolicy
 

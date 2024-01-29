@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/FareQuotaFactor](../modules/models_FareQuotaFactor.md) / default
+[@entur/products-models](../README.md) / [models/FareQuotaFactor](../modules/models_FareQuotaFactor.md) / default
 
 # Class: default
 

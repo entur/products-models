@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/TypeOfResponsibilityRole](../modules/models_TypeOfResponsibilityRole.md) / default
+[@entur/products-models](../README.md) / [models/TypeOfResponsibilityRole](../modules/models_TypeOfResponsibilityRole.md) / default
 
 # Class: default
 

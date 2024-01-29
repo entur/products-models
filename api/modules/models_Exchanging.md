@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/Exchanging
+[@entur/products-models](../README.md) / models/Exchanging
 
 # Module: models/Exchanging
 

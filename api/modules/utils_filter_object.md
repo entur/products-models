@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/filter-object
+[@entur/products-models](../README.md) / utils/filter-object
 
 # Module: utils/filter-object
 

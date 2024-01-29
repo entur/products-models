@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/JourneyPattern
+[@entur/products-models](../README.md) / models/JourneyPattern
 
 # Module: models/JourneyPattern
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/LuggageAllowance
+[@entur/products-models](../README.md) / models/LuggageAllowance
 
 # Module: models/LuggageAllowance
 

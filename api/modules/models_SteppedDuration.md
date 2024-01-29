@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/SteppedDuration
+[@entur/products-models](../README.md) / models/SteppedDuration
 
 # Module: models/SteppedDuration
 

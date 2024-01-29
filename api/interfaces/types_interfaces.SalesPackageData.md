@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / SalesPackageData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / SalesPackageData
 
 # Interface: SalesPackageData
 

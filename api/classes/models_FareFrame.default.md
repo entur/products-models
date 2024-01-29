@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/FareFrame](../modules/models_FareFrame.md) / default
+[@entur/products-models](../README.md) / [models/FareFrame](../modules/models_FareFrame.md) / default
 
 # Class: default
 

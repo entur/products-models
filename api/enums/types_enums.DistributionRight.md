@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/enums](../modules/types_enums.md) / DistributionRight
+[@entur/products-models](../README.md) / [types/enums](../modules/types_enums.md) / DistributionRight
 
 # Enumeration: DistributionRight
 

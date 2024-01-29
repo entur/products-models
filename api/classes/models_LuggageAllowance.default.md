@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/LuggageAllowance](../modules/models_LuggageAllowance.md) / default
+[@entur/products-models](../README.md) / [models/LuggageAllowance](../modules/models_LuggageAllowance.md) / default
 
 # Class: default
 

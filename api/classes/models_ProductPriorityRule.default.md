@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/ProductPriorityRule](../modules/models_ProductPriorityRule.md) / default
+[@entur/products-models](../README.md) / [models/ProductPriorityRule](../modules/models_ProductPriorityRule.md) / default
 
 # Class: default
 

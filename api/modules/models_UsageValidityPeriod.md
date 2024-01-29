@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/UsageValidityPeriod
+[@entur/products-models](../README.md) / models/UsageValidityPeriod
 
 # Module: models/UsageValidityPeriod
 

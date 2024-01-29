@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/get-access-right-parameter-assignment-refs
+[@entur/products-models](../README.md) / utils/get-access-right-parameter-assignment-refs
 
 # Module: utils/get-access-right-parameter-assignment-refs
 

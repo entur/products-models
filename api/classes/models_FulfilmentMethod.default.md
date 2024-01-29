@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/FulfilmentMethod](../modules/models_FulfilmentMethod.md) / default
+[@entur/products-models](../README.md) / [models/FulfilmentMethod](../modules/models_FulfilmentMethod.md) / default
 
 # Class: default
 

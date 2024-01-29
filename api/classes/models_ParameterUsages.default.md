@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/ParameterUsages](../modules/models_ParameterUsages.md) / default
+[@entur/products-models](../README.md) / [models/ParameterUsages](../modules/models_ParameterUsages.md) / default
 
 # Class: default
 

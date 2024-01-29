@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / LuggageAllowanceData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / LuggageAllowanceData
 
 # Interface: LuggageAllowanceData
 

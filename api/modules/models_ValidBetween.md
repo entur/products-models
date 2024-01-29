@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ValidBetween
+[@entur/products-models](../README.md) / models/ValidBetween
 
 # Module: models/ValidBetween
 

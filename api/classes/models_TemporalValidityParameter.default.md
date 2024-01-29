@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/TemporalValidityParameter](../modules/models_TemporalValidityParameter.md) / default
+[@entur/products-models](../README.md) / [models/TemporalValidityParameter](../modules/models_TemporalValidityParameter.md) / default
 
 # Class: default
 

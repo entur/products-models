@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/enums](../modules/types_enums.md) / ResellWhen
+[@entur/products-models](../README.md) / [types/enums](../modules/types_enums.md) / ResellWhen
 
 # Enumeration: ResellWhen
 

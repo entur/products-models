@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/GeneralGroupOfEntities
+[@entur/products-models](../README.md) / models/GeneralGroupOfEntities
 
 # Module: models/GeneralGroupOfEntities
 

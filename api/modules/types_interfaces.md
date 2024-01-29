@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / types/interfaces
+[@entur/products-models](../README.md) / types/interfaces
 
 # Module: types/interfaces
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/GeographicalInterval](../modules/models_GeographicalInterval.md) / default
+[@entur/products-models](../README.md) / [models/GeographicalInterval](../modules/models_GeographicalInterval.md) / default
 
 # Class: default
 

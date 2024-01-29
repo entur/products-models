@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/clone-objects
+[@entur/products-models](../README.md) / utils/clone-objects
 
 # Module: utils/clone-objects
 

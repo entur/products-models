@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/RoundTrip
+[@entur/products-models](../README.md) / models/RoundTrip
 
 # Module: models/RoundTrip
 

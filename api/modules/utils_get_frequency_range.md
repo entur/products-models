@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/get-frequency-range
+[@entur/products-models](../README.md) / utils/get-frequency-range
 
 # Module: utils/get-frequency-range
 

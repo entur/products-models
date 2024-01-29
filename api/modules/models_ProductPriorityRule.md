@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ProductPriorityRule
+[@entur/products-models](../README.md) / models/ProductPriorityRule
 
 # Module: models/ProductPriorityRule
 

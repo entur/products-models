@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/SaleDiscountRight
+[@entur/products-models](../README.md) / models/SaleDiscountRight
 
 # Module: models/SaleDiscountRight
 

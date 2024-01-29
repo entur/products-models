@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/LimitingRule
+[@entur/products-models](../README.md) / models/LimitingRule
 
 # Module: models/LimitingRule
 

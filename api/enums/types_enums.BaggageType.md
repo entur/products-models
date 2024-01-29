@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/enums](../modules/types_enums.md) / BaggageType
+[@entur/products-models](../README.md) / [types/enums](../modules/types_enums.md) / BaggageType
 
 # Enumeration: BaggageType
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/CappingRule
+[@entur/products-models](../README.md) / models/CappingRule
 
 # Module: models/CappingRule
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/UvpForNumberOfZones
+[@entur/products-models](../README.md) / models/UvpForNumberOfZones
 
 # Module: models/UvpForNumberOfZones
 

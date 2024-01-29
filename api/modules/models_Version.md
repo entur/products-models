@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/Version
+[@entur/products-models](../README.md) / models/Version
 
 # Module: models/Version
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/PenaltyPolicy](../modules/models_PenaltyPolicy.md) / default
+[@entur/products-models](../README.md) / [models/PenaltyPolicy](../modules/models_PenaltyPolicy.md) / default
 
 # Class: default
 

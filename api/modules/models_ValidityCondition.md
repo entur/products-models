@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ValidityCondition
+[@entur/products-models](../README.md) / models/ValidityCondition
 
 # Module: models/ValidityCondition
 

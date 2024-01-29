@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/Transferability](../modules/models_Transferability.md) / default
+[@entur/products-models](../README.md) / [models/Transferability](../modules/models_Transferability.md) / default
 
 # Class: default
 

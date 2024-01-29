@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/MetaData
+[@entur/products-models](../README.md) / models/MetaData
 
 # Module: models/MetaData
 

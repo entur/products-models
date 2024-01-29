@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ConditionSummary
+[@entur/products-models](../README.md) / models/ConditionSummary
 
 # Module: models/ConditionSummary
 

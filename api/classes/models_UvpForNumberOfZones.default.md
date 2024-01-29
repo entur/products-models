@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/UvpForNumberOfZones](../modules/models_UvpForNumberOfZones.md) / default
+[@entur/products-models](../README.md) / [models/UvpForNumberOfZones](../modules/models_UvpForNumberOfZones.md) / default
 
 # Class: default
 

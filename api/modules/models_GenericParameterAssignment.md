@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/GenericParameterAssignment
+[@entur/products-models](../README.md) / models/GenericParameterAssignment
 
 # Module: models/GenericParameterAssignment
 

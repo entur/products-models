@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/unique-values-in-array
+[@entur/products-models](../README.md) / utils/unique-values-in-array
 
 # Module: utils/unique-values-in-array
 

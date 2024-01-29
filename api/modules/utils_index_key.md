@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/index-key
+[@entur/products-models](../README.md) / utils/index-key
 
 # Module: utils/index-key
 

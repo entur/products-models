@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/get-thing-in-bucket-by-ref
+[@entur/products-models](../README.md) / utils/get-thing-in-bucket-by-ref
 
 # Module: utils/get-thing-in-bucket-by-ref
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/ChargingPolicy](../modules/models_ChargingPolicy.md) / default
+[@entur/products-models](../README.md) / [models/ChargingPolicy](../modules/models_ChargingPolicy.md) / default
 
 # Class: default
 

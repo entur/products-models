@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / AvailabilityConditionData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / AvailabilityConditionData
 
 # Interface: AvailabilityConditionData
 

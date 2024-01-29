@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/code-space-from-netex-id
+[@entur/products-models](../README.md) / utils/code-space-from-netex-id
 
 # Module: utils/code-space-from-netex-id
 

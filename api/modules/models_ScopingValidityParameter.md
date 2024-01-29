@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ScopingValidityParameter
+[@entur/products-models](../README.md) / models/ScopingValidityParameter
 
 # Module: models/ScopingValidityParameter
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ChargingPolicy
+[@entur/products-models](../README.md) / models/ChargingPolicy
 
 # Module: models/ChargingPolicy
 

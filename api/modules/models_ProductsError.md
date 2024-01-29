@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/ProductsError
+[@entur/products-models](../README.md) / models/ProductsError
 
 # Module: models/ProductsError
 

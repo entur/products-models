@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/Timeband
+[@entur/products-models](../README.md) / models/Timeband
 
 # Module: models/Timeband
 

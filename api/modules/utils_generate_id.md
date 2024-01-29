@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / utils/generate-id
+[@entur/products-models](../README.md) / utils/generate-id
 
 # Module: utils/generate-id
 

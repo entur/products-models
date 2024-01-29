@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/FarePointInPattern
+[@entur/products-models](../README.md) / models/FarePointInPattern
 
 # Module: models/FarePointInPattern
 

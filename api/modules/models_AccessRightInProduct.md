@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/AccessRightInProduct
+[@entur/products-models](../README.md) / models/AccessRightInProduct
 
 # Module: models/AccessRightInProduct
 

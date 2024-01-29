@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/FareSection
+[@entur/products-models](../README.md) / models/FareSection
 
 # Module: models/FareSection
 

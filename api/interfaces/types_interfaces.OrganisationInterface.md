@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / OrganisationInterface
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / OrganisationInterface
 
 # Interface: OrganisationInterface
 

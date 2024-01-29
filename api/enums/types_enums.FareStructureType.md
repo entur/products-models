@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/enums](../modules/types_enums.md) / FareStructureType
+[@entur/products-models](../README.md) / [types/enums](../modules/types_enums.md) / FareStructureType
 
 # Enumeration: FareStructureType
 

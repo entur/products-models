@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/Transferability
+[@entur/products-models](../README.md) / models/Transferability
 
 # Module: models/Transferability
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/AmountOfPriceUnitProduct
+[@entur/products-models](../README.md) / models/AmountOfPriceUnitProduct
 
 # Module: models/AmountOfPriceUnitProduct
 

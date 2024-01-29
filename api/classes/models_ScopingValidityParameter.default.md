@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [models/ScopingValidityParameter](../modules/models_ScopingValidityParameter.md) / default
+[@entur/products-models](../README.md) / [models/ScopingValidityParameter](../modules/models_ScopingValidityParameter.md) / default
 
 # Class: default
 

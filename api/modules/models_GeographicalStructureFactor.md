@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/GeographicalStructureFactor
+[@entur/products-models](../README.md) / models/GeographicalStructureFactor
 
 # Module: models/GeographicalStructureFactor
 

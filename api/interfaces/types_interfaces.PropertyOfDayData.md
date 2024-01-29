@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / PropertyOfDayData
+[@entur/products-models](../README.md) / [types/interfaces](../modules/types_interfaces.md) / PropertyOfDayData
 
 # Interface: PropertyOfDayData
 

@@ -1,4 +1,4 @@
-[@entur-partner/products-models](../README.md) / models/FareQuotaFactor
+[@entur/products-models](../README.md) / models/FareQuotaFactor
 
 # Module: models/FareQuotaFactor
 
