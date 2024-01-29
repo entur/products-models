@@ -1,52 +1,61 @@
 'section: workflows':
   - any:
     - changed-files:
-      - .github/workflows/**
+      -any-glob-to-any-file:
+        - .github/workflows/**
 'section: repo':
   - any:
     - changed-files:
-      - '*'
+      -any-glob-to-any-file:
+        - '*'
 'experience: developer':
   - any:
     - changed-files:
-      - '.editorconfig'
-      - '.eslintignore'
-      - '.eslintrc.json'
-      - '.eslintrc.js'
-      - '.gitignore'
-      - '.release-it.json'
-      - '.renovate.json'
-      - '.npmrc'
-      - '.prettierrc'
-      - 'tslint.json'
+      -any-glob-to-any-file:
+        - '.editorconfig'
+        - '.eslintignore'
+        - '.eslintrc.json'
+        - '.eslintrc.js'
+        - '.gitignore'
+        - '.release-it.json'
+        - '.renovate.json'
+        - '.npmrc'
+        - '.prettierrc'
+        - 'tslint.json'
 'context: github':
   - any:
     - changed-files:
-      - .github/**
+      -any-glob-to-any-file:
+        - .github/**
 'context: docker':
   - any:
     - changed-files:
-      - Dockerfile
+      -any-glob-to-any-file:
+        - Dockerfile
 'context: npm':
   - any:
     - changed-files:
-      - '.npmrc'
+      -any-glob-to-any-file:
+        - '.npmrc'
 'context: rollup':
   - any:
     - changed-files:
-      - 'rollup.config.js'
-      - 'rollup.config.mjs'
-      - 'rollup.*.config.js'
-      - 'rollup.*.config.mjs'
+      -any-glob-to-any-file:
+        - 'rollup.config.js'
+        - 'rollup.config.mjs'
+        - 'rollup.*.config.js'
+        - 'rollup.*.config.mjs'
 'mindless: docs':
   - any:
     - changed-files:
-      - '**/*.md'
+      -any-glob-to-any-file:
+        - '**/*.md'
 'mindless: dependencies':
   - any:
     - changed-files:
-      - 'package-lock.json'
-      - 'yarn.lock'
+      -any-glob-to-any-file:
+        - 'package-lock.json'
+        - 'yarn.lock'
 
 # Add '✨ feature' label to any PR where the head branch name starts with `feat` or has a `feat` section in the name
 '✨ feature':
