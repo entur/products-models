@@ -47,6 +47,7 @@
         - 'rollup.*.config.mjs'
 'mindless: docs':
   - any:
+    - head-branch: ['^docs', 'docs']
     - changed-files:
       - any-glob-to-any-file:
         - '**/*.md'
@@ -62,8 +63,6 @@
  - head-branch: ['^feat', 'feat']
 'problems: bug':
  - head-branch: ['^fix', 'fix']
-'mindless: docs':
- - head-branch: ['^docs', 'docs']
 'improvements: enhancement':
  - head-branch: ['^improvements', 'improvements']
 
