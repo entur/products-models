@@ -1,17 +1,17 @@
 'section: workflows':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - .github/workflows/**
 'section: repo':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - '*'
 'experience: developer':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - '.editorconfig'
         - '.eslintignore'
         - '.eslintrc.json'
@@ -25,22 +25,22 @@
 'context: github':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - .github/**
 'context: docker':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - Dockerfile
 'context: npm':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - '.npmrc'
 'context: rollup':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - 'rollup.config.js'
         - 'rollup.config.mjs'
         - 'rollup.*.config.js'
@@ -48,12 +48,12 @@
 'mindless: docs':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - '**/*.md'
 'mindless: dependencies':
   - any:
     - changed-files:
-      -any-glob-to-any-file:
+      - any-glob-to-any-file:
         - 'package-lock.json'
         - 'yarn.lock'
 
