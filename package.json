@@ -18,6 +18,11 @@
     "rollup:dev": "rollup -c -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "/dist/main.js",
+    "/dist/main.js.map",
+    "/dist/main.d.ts"
+  ],
   "author": "Entur AS",
   "contributors": [
     "Alexander Vassbotn Røyne-Helgesen"
