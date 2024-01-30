@@ -14,7 +14,13 @@ class DistributionChannel {
   }
 
   getName(locale: string) {
-    return this.name[locale] ?? this.name.nob ?? '';
+    if (locale === 'en') {
+      return this.name.eng;
+    } else if (locale === 'nb') {
+      return this.name.nob ?? this.name.nno ?? '';
+    } else {
+      return '';
+    }
   }
 
   static getNameOfClass() {
