@@ -170,3 +170,9 @@ export { default as ValidBetween } from './models/ValidBetween';
 export { default as ValidityCondition } from './models/ValidityCondition';
 
 export { default as Version } from './models/Version';
+
+export * from './types/types';
+
+export * from './types/interfaces';
+
+export * from './types/enums';
