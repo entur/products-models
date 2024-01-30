@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/entur/products-models/compare/1.1.1...1.1.2) (2024-01-30)
+
+
+### Tasks
+
+* **deps:** update typescript-eslint monorepo to v6.20.0 ([406ea10](https://github.com/entur/products-models/commit/406ea10dbf35e75ae4fa314a2da2ab0fc4a7f313))
+
 ## [1.1.1](https://github.com/entur/products-models/compare/1.1.0...1.1.1) (2024-01-30)
 
 
