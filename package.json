@@ -1,14 +1,15 @@
 {
   "name": "@entur/products-models",
-  "version": "1.1.0",
+  "version": "1.1.3",
   "publishConfig": {
     "access": "public"
   },
   "description": "The models used for the products bff and client",
-  "main": "index.js",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
   "scripts": {
     "build": "npm run clean && npm run rollup",
-    "clean": "rm -rf dist/ dts/ api/",
+    "clean": "rm -rf dist/ dts/",
     "commit": "npx git-cz",
     "docs:gen": "node ./node_modules/.bin/typedoc --entryPoints src --entryPointStrategy expand --gitRevision main --githubPages false --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --hideInPageTOC --out api --readme none",
     "release": "git checkout -- package-lock.json && release-it",
@@ -17,6 +18,11 @@
     "rollup:dev": "rollup -c -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "/dist/main.js",
+    "/dist/main.js.map",
+    "/dist/main.d.ts"
+  ],
   "author": "Entur AS",
   "contributors": [
     "Alexander Vassbotn Røyne-Helgesen"

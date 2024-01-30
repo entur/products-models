@@ -1,5 +1,36 @@
 # Changelog
 
+## [1.1.3](https://github.com/entur/products-models/compare/1.1.2...1.1.3) (2024-01-30)
+
+
+### Tasks
+
+* 🤖 Only pack what we need to pack ([af280ea](https://github.com/entur/products-models/commit/af280eaff4aa1f19b86bdf535f28077e9c309ce4))
+
+
+### Bug
+
+* 🐛 Use correct main ([733c78a](https://github.com/entur/products-models/commit/733c78ade59a55e5becd2ca72278eb1308326ca9))
+
+## [1.1.2](https://github.com/entur/products-models/compare/1.1.1...1.1.2) (2024-01-30)
+
+
+### Tasks
+
+* **deps:** update typescript-eslint monorepo to v6.20.0 ([406ea10](https://github.com/entur/products-models/commit/406ea10dbf35e75ae4fa314a2da2ab0fc4a7f313))
+
+## [1.1.1](https://github.com/entur/products-models/compare/1.1.0...1.1.1) (2024-01-30)
+
+
+### Tasks
+
+* 🤖 Do not deleate api documentation on clean ([34c179c](https://github.com/entur/products-models/commit/34c179c24c220e364fc0d8ff5b9921b6d5882b4d))
+
+
+### Bug
+
+* 🐛 Update model with changes from `products-frontend` ([5f32d77](https://github.com/entur/products-models/commit/5f32d77b9dceb5e531c2e36365e2aec747d74314))
+
 ## [1.1.0](https://github.com/entur/products-models/compare/1.0.1...1.1.0) (2024-01-29)
 
 
