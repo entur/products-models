@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/entur/products-models/compare/1.1.3...1.1.4) (2024-01-30)
+
+
+### Bug
+
+* 🐛 Fix types export ([99d7b1d](https://github.com/entur/products-models/commit/99d7b1d9a0d6d4cc284f3877010c94636317ab52))
+
 ## [1.1.3](https://github.com/entur/products-models/compare/1.1.2...1.1.3) (2024-01-30)
 
 
