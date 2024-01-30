@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.1](https://github.com/entur/products-models/compare/1.1.0...1.1.1) (2024-01-30)
+
+
+### Tasks
+
+* 🤖 Do not deleate api documentation on clean ([34c179c](https://github.com/entur/products-models/commit/34c179c24c220e364fc0d8ff5b9921b6d5882b4d))
+
+
+### Bug
+
+* 🐛 Update model with changes from `products-frontend` ([5f32d77](https://github.com/entur/products-models/commit/5f32d77b9dceb5e531c2e36365e2aec747d74314))
+
 ## [1.1.0](https://github.com/entur/products-models/compare/1.0.1...1.1.0) (2024-01-29)
 
 

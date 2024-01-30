@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-[src/models/DistributionChannel.ts:20](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L20)
+[src/models/DistributionChannel.ts:26](https://github.com/entur/products-models/blob/main/src/models/DistributionChannel.ts#L26)
