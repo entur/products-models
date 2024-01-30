@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.3](https://github.com/entur/products-models/compare/1.1.2...1.1.3) (2024-01-30)
+
+
+### Tasks
+
+* 🤖 Only pack what we need to pack ([af280ea](https://github.com/entur/products-models/commit/af280eaff4aa1f19b86bdf535f28077e9c309ce4))
+
+
+### Bug
+
+* 🐛 Use correct main ([733c78a](https://github.com/entur/products-models/commit/733c78ade59a55e5becd2ca72278eb1308326ca9))
+
 ## [1.1.2](https://github.com/entur/products-models/compare/1.1.1...1.1.2) (2024-01-30)
 
 
