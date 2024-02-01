@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/entur/products-models/compare/1.1.4...1.1.5) (2024-02-01)
+
+
+### Tasks
+
+* 🤖 Update `Version.ts` ([ee707d8](https://github.com/entur/products-models/commit/ee707d86cfab867d1df74d83e86e2d4d6929ee80))
+
 ## [1.1.4](https://github.com/entur/products-models/compare/1.1.3...1.1.4) (2024-01-30)
 
 

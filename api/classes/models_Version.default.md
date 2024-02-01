@@ -14,7 +14,7 @@
 
 | Name | Type |
 | :------ | :------ |
-| `data` | `Partial`\<[`VersionData`](../interfaces/types_interfaces.VersionData.md)\> |
+| `data` | `Partial`\<`VersionData`\> |
 
 #### Returns
 
@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[src/models/Version.ts:30](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L30)
+[src/models/Version.ts:42](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L42)
 
 ## Properties
 
@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[src/models/Version.ts:22](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L22)
+[src/models/Version.ts:34](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L34)
 
 ___
 
@@ -42,17 +42,17 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:21](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L21)
+[src/models/Version.ts:33](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L33)
 
 ___
 
 ### description
 
-• **description**: [`TextInLanguage`](../modules/types_types.md#textinlanguage)[]
+• `Optional` **description**: `string`
 
 #### Defined in
 
-[src/models/Version.ts:23](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L23)
+[src/models/Version.ts:35](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L35)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:27](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L27)
+[src/models/Version.ts:39](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L39)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:19](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L19)
+[src/models/Version.ts:31](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L31)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:24](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L24)
+[src/models/Version.ts:36](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L36)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:20](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L20)
+[src/models/Version.ts:32](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L32)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:26](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L26)
+[src/models/Version.ts:38](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L38)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:25](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L25)
+[src/models/Version.ts:37](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L37)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:28](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L28)
+[src/models/Version.ts:40](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L40)
 
 ## Methods
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:61](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L61)
+[src/models/Version.ts:73](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L73)
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:97](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L97)
+[src/models/Version.ts:109](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L109)
 
 ___
 
@@ -176,7 +176,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:57](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L57)
+[src/models/Version.ts:69](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L69)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:69](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L69)
+[src/models/Version.ts:81](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L81)
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:53](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L53)
+[src/models/Version.ts:65](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L65)
 
 ___
 
@@ -231,7 +231,7 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:81](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L81)
+[src/models/Version.ts:93](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L93)
 
 ___
 
@@ -251,4 +251,4 @@ ___
 
 #### Defined in
 
-[src/models/Version.ts:65](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L65)
+[src/models/Version.ts:77](https://github.com/entur/products-models/blob/main/src/models/Version.ts#L77)
