@@ -1,8 +1,6 @@
 import { v4 as uuid } from 'uuid';
 
 import { Modification, VersionStatus, VersionType } from '../types/enums';
-import { VersionData } from '../types/interfaces';
-import { TextInLanguage } from '../types/types';
 import { cloneObject } from '../utils/clone-objects';
 
 import FareFrame from './FareFrame';
@@ -15,12 +13,26 @@ const getStringFromDateValue = (arg: number | string | Date) => {
   return arg.toISOString();
 };
 
+interface VersionData {
+  id: string;
+  codeSpace: string;
+  nameOfClass: string;
+  created: string;
+  changed: string;
+  description?: string;
+  modification: Modification;
+  status: VersionStatus;
+  versionType: VersionType;
+  startDate: number | string | Date;
+  endDate: number | string | Date;
+}
+
 class Version {
   id: string;
   nameOfClass: string;
   created: string;
   changed: string;
-  description: Array<TextInLanguage>;
+  description?: string;
   modification: Modification;
   status?: VersionStatus;
   startDate?: string;
@@ -37,7 +49,7 @@ class Version {
     this.id = data.id || Version.generateNewVersionId(data.codeSpace!);
     this.nameOfClass = NAME_OF_CLASS;
     this.created = data.created || '';
-    this.description = data.description || [];
+    this.description = data.description;
     this.changed = data.changed || '';
     this.modification = data.modification || Modification.NEW;
     this.status = data.status;
