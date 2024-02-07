@@ -34,7 +34,7 @@ class Version {
   changed: string;
   description?: string;
   modification: Modification;
-  status?: VersionStatus;
+  status: VersionStatus;
   startDate?: string;
   endDate?: string;
   versionType: VersionType;
@@ -52,7 +52,7 @@ class Version {
     this.description = data.description;
     this.changed = data.changed || '';
     this.modification = data.modification || Modification.NEW;
-    this.status = data.status;
+    this.status = data.status || VersionStatus.DRAFT;
     this.startDate = data.startDate
       ? getStringFromDateValue(data.startDate)
       : undefined;
