@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/entur/products-models/compare/1.1.5...1.1.6) (2024-02-07)
+
+
+### Tasks
+
+* 🤖 Update models ([1494e2e](https://github.com/entur/products-models/commit/1494e2e88582337aadcf82736b5aac15dfa8c352)), closes [#23](https://github.com/entur/products-models/issues/23)
+
 ## [1.1.5](https://github.com/entur/products-models/compare/1.1.4...1.1.5) (2024-02-01)
 
 

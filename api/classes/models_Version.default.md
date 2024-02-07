@@ -108,7 +108,7 @@ ___
 
 ### status
 
-• `Optional` **status**: [`VersionStatus`](../enums/types_enums.VersionStatus.md)
+• **status**: [`VersionStatus`](../enums/types_enums.VersionStatus.md)
 
 #### Defined in
 
