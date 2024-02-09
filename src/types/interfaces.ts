@@ -660,7 +660,6 @@ export interface GroupTicketData extends BaseModelData {
   jointCheckIn?: GroupCheckInEnum;
 }
 
-
 export interface ParameterUsageData {
   elementRefs?: Reference[];
 }
@@ -679,7 +678,6 @@ export interface MetaDataData {
 export interface JourneyPatternData extends BaseModelData {
   farePointsInPattern: FarePointInPattern[];
 }
-
 
 export interface LimitingRuleData extends BaseModelData {
   canBeCumulative: boolean;
@@ -729,7 +727,6 @@ export interface ProductsErrorData extends Error {
   errorDetails: Array<ErrorDetails>;
 }
 
-
 export interface CellData extends BaseModelData {
   priceableObjectRefs: Reference[];
   farePrice: FarePrice;
@@ -741,4 +738,10 @@ export interface GroupOfTariffZoneData {
     value: string;
     lang: string;
   };
+}
+
+export interface ProductsErrorPendingDeprecationData extends Error {
+  error: string;
+  errorDescription?: string;
+  errorDetails: Array<ErrorDetails>;
 }
