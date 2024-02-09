@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[src/types/interfaces.ts:696](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L696)
+[src/types/interfaces.ts:694](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L694)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[src/types/interfaces.ts:695](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L695)
+[src/types/interfaces.ts:693](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L693)
 
 ___
 

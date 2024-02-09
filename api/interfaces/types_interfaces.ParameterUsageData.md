@@ -12,4 +12,4 @@
 
 #### Defined in
 
-[src/types/interfaces.ts:665](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L665)
+[src/types/interfaces.ts:664](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L664)

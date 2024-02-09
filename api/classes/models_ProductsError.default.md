@@ -50,6 +50,16 @@ node_modules/typescript/lib/lib.es2022.error.d.ts:24
 
 ___
 
+### data
+
+• **data**: `string`
+
+#### Defined in
+
+[src/models/ProductsError.ts:4](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L4)
+
+___
+
 ### error
 
 • **error**: `string`
@@ -57,26 +67,6 @@ ___
 #### Defined in
 
 [src/models/ProductsError.ts:5](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L5)
-
-___
-
-### errorDescription
-
-• `Optional` **errorDescription**: `string`
-
-#### Defined in
-
-[src/models/ProductsError.ts:6](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L6)
-
-___
-
-### errorDetails
-
-• **errorDetails**: [`ErrorDetails`](../modules/types_types.md#errordetails)[]
-
-#### Defined in
-
-[src/models/ProductsError.ts:7](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L7)
 
 ___
 
@@ -108,6 +98,16 @@ node_modules/typescript/lib/lib.es5.d.ts:1075
 
 ___
 
+### originalStatus
+
+• **originalStatus**: `string`
+
+#### Defined in
+
+[src/models/ProductsError.ts:6](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L6)
+
+___
+
 ### stack
 
 • `Optional` **stack**: `string`
@@ -122,82 +122,10 @@ node_modules/typescript/lib/lib.es5.d.ts:1077
 
 ___
 
-### prepareStackTrace
+### status
 
-▪ `Static` `Optional` **prepareStackTrace**: (`err`: `Error`, `stackTraces`: `CallSite`[]) => `any`
-
-Optional override for formatting stack traces
-
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
-#### Type declaration
-
-▸ (`err`, `stackTraces`): `any`
-
-Optional override for formatting stack traces
-
-##### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `err` | `Error` |
-| `stackTraces` | `CallSite`[] |
-
-##### Returns
-
-`any`
-
-**`See`**
-
-https://v8.dev/docs/stack-trace-api#customizing-stack-traces
-
-#### Inherited from
-
-Error.prepareStackTrace
+• **status**: `string`
 
 #### Defined in
 
-node_modules/@types/node/globals.d.ts:28
-
-___
-
-### stackTraceLimit
-
-▪ `Static` **stackTraceLimit**: `number`
-
-#### Inherited from
-
-Error.stackTraceLimit
-
-#### Defined in
-
-node_modules/@types/node/globals.d.ts:30
-
-## Methods
-
-### captureStackTrace
-
-▸ **captureStackTrace**(`targetObject`, `constructorOpt?`): `void`
-
-Create .stack property on a target object
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `targetObject` | `object` |
-| `constructorOpt?` | `Function` |
-
-#### Returns
-
-`void`
-
-#### Inherited from
-
-Error.captureStackTrace
-
-#### Defined in
-
-node_modules/@types/node/globals.d.ts:21
+[src/models/ProductsError.ts:7](https://github.com/entur/products-models/blob/main/src/models/ProductsError.ts#L7)

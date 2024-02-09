@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.7](https://github.com/entur/products-models/compare/1.1.6...1.1.7) (2024-02-09)
+
+
+### Tasks
+
+* 🤖 Add `ProductsErrorPendingDeprecation` class ([544ec18](https://github.com/entur/products-models/commit/544ec184f7bafa2162394e7ea89700680e603ff4)), closes [#25](https://github.com/entur/products-models/issues/25)
+* 🤖 Update `ProductsError` ([552c610](https://github.com/entur/products-models/commit/552c610c27ea97f3b07340e7785d6cd8db28cf54)), closes [#25](https://github.com/entur/products-models/issues/25)
+
+
+### Refactoring
+
+* 💡 Finish refactor for `Version` ([6a1df20](https://github.com/entur/products-models/commit/6a1df20e2a4c2f1befacf21a39e20d8dc148fa8a))
+* 💡 Remove unneeded dep ([33ce930](https://github.com/entur/products-models/commit/33ce930d6afe70aab606774d88192d48a8a2971b))
+
 ## [1.1.6](https://github.com/entur/products-models/compare/1.1.5...1.1.6) (2024-02-07)
 
 

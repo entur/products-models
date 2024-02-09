@@ -886,6 +886,18 @@ Re-exports [ProductsErrorData](../interfaces/types_interfaces.ProductsErrorData.
 
 ___
 
+### ProductsErrorPendingDeprecation
+
+Renames and re-exports [default](../classes/models_ProductsErrorPendingDeprecation.default.md)
+
+___
+
+### ProductsErrorPendingDeprecationData
+
+Re-exports [ProductsErrorPendingDeprecationData](../interfaces/types_interfaces.ProductsErrorPendingDeprecationData.md)
+
+___
+
 ### ProofOfIdentity
 
 Re-exports [ProofOfIdentity](../enums/types_enums.ProofOfIdentity.md)

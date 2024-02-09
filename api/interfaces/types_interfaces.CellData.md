@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/types/interfaces.ts:735](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L735)
+[src/types/interfaces.ts:733](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L733)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[src/types/interfaces.ts:734](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L734)
+[src/types/interfaces.ts:732](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L732)
 
 ___
 

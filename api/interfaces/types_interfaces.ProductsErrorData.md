@@ -26,33 +26,23 @@ node_modules/typescript/lib/lib.es2022.error.d.ts:24
 
 ___
 
+### data
+
+• **data**: `string`
+
+#### Defined in
+
+[src/types/interfaces.ts:725](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L725)
+
+___
+
 ### error
 
 • **error**: `string`
 
 #### Defined in
 
-[src/types/interfaces.ts:727](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L727)
-
-___
-
-### errorDescription
-
-• `Optional` **errorDescription**: `string`
-
-#### Defined in
-
-[src/types/interfaces.ts:728](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L728)
-
-___
-
-### errorDetails
-
-• **errorDetails**: [`ErrorDetails`](../modules/types_types.md#errordetails)[]
-
-#### Defined in
-
-[src/types/interfaces.ts:729](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L729)
+[src/types/interfaces.ts:726](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L726)
 
 ___
 
@@ -84,6 +74,16 @@ node_modules/typescript/lib/lib.es5.d.ts:1075
 
 ___
 
+### originalStatus
+
+• **originalStatus**: `string`
+
+#### Defined in
+
+[src/types/interfaces.ts:727](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L727)
+
+___
+
 ### stack
 
 • `Optional` **stack**: `string`
@@ -95,3 +95,13 @@ Error.stack
 #### Defined in
 
 node_modules/typescript/lib/lib.es5.d.ts:1077
+
+___
+
+### status
+
+• **status**: `string`
+
+#### Defined in
+
+[src/types/interfaces.ts:728](https://github.com/entur/products-models/blob/main/src/types/interfaces.ts#L728)

@@ -38,7 +38,7 @@ ___
 
 ### description
 
-• **description**: [`TextInLanguage`](../modules/types_types.md#textinlanguage)[]
+• `Optional` **description**: `string`
 
 #### Defined in
 

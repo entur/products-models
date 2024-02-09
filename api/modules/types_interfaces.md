@@ -52,6 +52,7 @@
 - [PreassignedFareProductData](../interfaces/types_interfaces.PreassignedFareProductData.md)
 - [ProductPriorityRuleData](../interfaces/types_interfaces.ProductPriorityRuleData.md)
 - [ProductsErrorData](../interfaces/types_interfaces.ProductsErrorData.md)
+- [ProductsErrorPendingDeprecationData](../interfaces/types_interfaces.ProductsErrorPendingDeprecationData.md)
 - [PropertyOfDayData](../interfaces/types_interfaces.PropertyOfDayData.md)
 - [PurchaseWindowData](../interfaces/types_interfaces.PurchaseWindowData.md)
 - [RefundingData](../interfaces/types_interfaces.RefundingData.md)
