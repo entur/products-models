@@ -105,6 +105,8 @@ export { default as ProductPriorityRule } from './models/ProductPriorityRule';
 
 export { default as ProductsError } from './models/ProductsError';
 
+export { default as ProductsErrorPendingDeprecation } from './models/ProductsErrorPendingDeprecation';
+
 export { default as PropertyOfDay } from './models/PropertyOfDay';
 
 export { default as PurchaseWindow } from './models/PurchaseWindow';

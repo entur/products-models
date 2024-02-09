@@ -443,7 +443,7 @@ export interface VersionData {
   nameOfClass: string;
   created: string;
   changed: string;
-  description: Array<TextInLanguage>;
+  description?: string;
   modification: Modification;
   status: VersionStatus;
   versionType: VersionType;
@@ -660,7 +660,6 @@ export interface GroupTicketData extends BaseModelData {
   jointCheckIn?: GroupCheckInEnum;
 }
 
-
 export interface ParameterUsageData {
   elementRefs?: Reference[];
 }
@@ -679,7 +678,6 @@ export interface MetaDataData {
 export interface JourneyPatternData extends BaseModelData {
   farePointsInPattern: FarePointInPattern[];
 }
-
 
 export interface LimitingRuleData extends BaseModelData {
   canBeCumulative: boolean;
@@ -724,11 +722,11 @@ export interface FareStructureElementInSequenceData extends BaseModelData {
 }
 
 export interface ProductsErrorData extends Error {
+  data: string;
   error: string;
-  errorDescription?: string;
-  errorDetails: Array<ErrorDetails>;
+  originalStatus: string;
+  status: string;
 }
-
 
 export interface CellData extends BaseModelData {
   priceableObjectRefs: Reference[];
@@ -741,4 +739,10 @@ export interface GroupOfTariffZoneData {
     value: string;
     lang: string;
   };
+}
+
+export interface ProductsErrorPendingDeprecationData extends Error {
+  error: string;
+  errorDescription?: string;
+  errorDetails: Array<ErrorDetails>;
 }

@@ -1,31 +1,14 @@
 import { v4 as uuid } from 'uuid';
 
+import { getStringFromDateValue } from 'utils/get-string-from-date-value';
+
 import { Modification, VersionStatus, VersionType } from '../types/enums';
+import { VersionData } from '../types/interfaces';
 import { cloneObject } from '../utils/clone-objects';
 
 import FareFrame from './FareFrame';
 
 const NAME_OF_CLASS = 'Version';
-const getStringFromDateValue = (arg: number | string | Date) => {
-  if (typeof arg === 'string') return arg;
-  else if (typeof arg === 'number') return new Date(arg).toISOString();
-
-  return arg.toISOString();
-};
-
-interface VersionData {
-  id: string;
-  codeSpace: string;
-  nameOfClass: string;
-  created: string;
-  changed: string;
-  description?: string;
-  modification: Modification;
-  status: VersionStatus;
-  versionType: VersionType;
-  startDate: number | string | Date;
-  endDate: number | string | Date;
-}
 
 class Version {
   id: string;
