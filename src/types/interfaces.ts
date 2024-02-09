@@ -443,7 +443,7 @@ export interface VersionData {
   nameOfClass: string;
   created: string;
   changed: string;
-  description: Array<TextInLanguage>;
+  description?: string;
   modification: Modification;
   status: VersionStatus;
   versionType: VersionType;
