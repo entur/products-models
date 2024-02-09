@@ -722,9 +722,10 @@ export interface FareStructureElementInSequenceData extends BaseModelData {
 }
 
 export interface ProductsErrorData extends Error {
+  data: string;
   error: string;
-  errorDescription?: string;
-  errorDetails: Array<ErrorDetails>;
+  originalStatus: string;
+  status: string;
 }
 
 export interface CellData extends BaseModelData {

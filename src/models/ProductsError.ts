@@ -1,20 +1,22 @@
 import { ProductsErrorData } from '../types/interfaces';
-import { ErrorDetails } from '../types/types';
 
 class ProductsError extends Error {
+  data: string;
   error: string;
-  errorDescription?: string;
-  errorDetails: Array<ErrorDetails>;
+  originalStatus: string;
+  status: string;
   constructor({
+    data = '',
     error = '',
-    errorDescription = '',
-    errorDetails = [],
+    originalStatus = '',
+    status = '',
     ...rest
   }: ProductsErrorData) {
     super(rest.message);
+    this.data = data;
     this.error = error;
-    this.errorDescription = errorDescription;
-    this.errorDetails = errorDetails;
+    this.originalStatus = originalStatus;
+    this.status = status;
   }
 }
 
