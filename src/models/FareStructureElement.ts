@@ -87,8 +87,10 @@ class FareStructureElement extends Dorito {
     return (
       !version ||
       !version.status ||
-      (version.startDate === myVersion?.startDate &&
-        version.endDate === myVersion?.endDate &&
+      (version.startDate?.substring(0, 10) ===
+        myVersion?.startDate?.substring(0, 10) &&
+        version.endDate?.substring(0, 10) ===
+          myVersion?.endDate?.substring(0, 10) &&
         version.status === myVersion?.status)
     );
   }
